@@ -1,0 +1,963 @@
+Content ID,Reaction_Type,Datetime,Content_Type,Category,Sentiment,Score
+97522e57-d9ab-4bd6-97bf-c24d952602d2,disgust,2020-11-07 09:43:50,photo,studying,negative,0
+9f737e0a-3cdd-4d29-9d24-753f4e3be810,dislike,2020-06-25 17:01:58,photo,healthy eating,negative,10
+230c4e4d-70c3-461d-b42c-ec09396efb3f,hate,2020-12-07 19:13:23,photo,healthy eating,negative,5
+356fff80-da4d-4785-9f43-bc1261031dc6,worried,2021-04-03 12:17:12,photo,technology,negative,12
+01ab84dd-6364-4236-abbb-3f237db77180,scared,2021-05-24 18:03:26,video,food,negative,15
+cf1e8c1a-23eb-4426-9f58-002fb1b53e91,interested,2021-02-25 20:02:53,gif,cooking,positive,30
+3f8590c7-6ab2-4973-805a-90cdec355f05,cherish,2021-02-12 16:37:36,video,dogs,positive,70
+e5490118-90d5-4572-ab1c-1fbc87b8d9ca,want,2021-03-31 15:24:36,video,technology,positive,70
+0bedca96-fb76-4287-a83c-17330ed39cce,adore,2020-07-13 02:38:53,photo,soccer,positive,72
+b18cb63f-4c8e-44ee-a47f-541e95191d11,want,2021-04-14 00:56:54,photo,public speaking,positive,70
+5118e9c5-1377-4cc5-a486-65b35b7b7b76,super love,2020-06-30 13:08:43,gif,science,positive,75
+0be59876-d70c-486c-8e0b-a06bef7a2cd6,cherish,2020-09-13 11:24:46,gif,tennis,positive,70
+81abd65a-3b76-4574-a0a7-db6bf7184ae2,love,2021-01-06 06:08:01,video,food,positive,65
+e6ee2244-9382-49a9-8cbf-fa54aaaa2392,intrigued,2021-03-03 18:40:34,audio,travel,positive,45
+7ffd0a82-4a0a-4527-a4d6-e251b756bac7,interested,2020-10-30 03:52:21,gif,fitness,positive,30
+f332d362-dc48-46c2-a64b-641157c0987e,adore,2020-07-26 19:34:55,gif,soccer,positive,72
+a2e93b29-9259-4092-a4d7-62d5e823bb74,hate,2020-09-08 14:01:57,video,public speaking,negative,5
+9b3a6d30-48e8-476c-82be-9031524bd04d,disgust,2020-11-21 03:14:44,video,food,negative,0
+850fe90d-47d6-4eb7-b9c8-810afcb99ce9,adore,2021-05-21 12:47:49,video,tennis,positive,72
+baa2db00-81ba-4c34-b17d-dd950bfa133b,worried,2020-10-27 22:11:33,gif,soccer,negative,12
+f98dde71-ce1d-4f6c-bb05-ae05779d2207,super love,2020-08-02 18:35:15,gif,soccer,positive,75
+388bd9db-9d10-4f47-87c4-6db46e83bc95,interested,2020-08-22 23:58:52,video,education,positive,30
+78d0075f-895c-4a15-a35c-a921e2bb2cea,want,2020-09-11 19:13:59,photo,studying,positive,70
+bda0b065-7f8b-4d52-b7e9-fcc375cdab08,super love,2020-12-27 17:21:20,photo,travel,positive,75
+a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,dislike,2020-08-06 13:32:30,gif,food,negative,10
+809b41e3-7a6f-4d80-84bf-f8d7b0e2d0e1,cherish,2021-01-20 08:55:58,audio,dogs,positive,70
+34a3747a-0b77-42f6-ae19-87c38b94b674,interested,2021-04-03 09:24:27,gif,science,positive,30
+2920dccb-e06f-49fc-8049-b6d4164dfe84,adore,2021-02-23 01:14:52,gif,veganism,positive,72
+f4e3840e-bb71-40c2-afc5-9408d842646d,cherish,2020-06-28 07:53:22,photo,healthy eating,positive,70
+a2ff9bf2-1fa6-4001-9566-f597f8e754ef,intrigued,2020-09-03 17:05:32,video,food,positive,45
+74718bbf-e5a3-442f-8ca2-4a3428757fc1,heart,2020-10-18 05:43:21,video,dogs,positive,60
+89fd8f89-807f-4076-b7e7-84db361e11c1,intrigued,2020-09-09 00:41:20,audio,studying,positive,45
+02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,disgust,2021-01-17 23:43:53,video,cooking,negative,0
+eec5e521-4c28-4e8a-93a9-d544803fad7e,dislike,2020-06-22 05:26:30,audio,food,negative,10
+07f88a73-aef2-45fd-8b5d-418e448b853d,cherish,2021-03-12 16:22:28,gif,animals,positive,70
+49367a0f-1fd5-4417-a7c9-4a154e1ae0ad,scared,2021-02-26 21:35:14,photo,technology,negative,15
+457301ee-3e87-40d8-8b82-ea4e1fa90e39,intrigued,2020-10-19 03:36:22,gif,healthy eating,positive,45
+4fa14453-7b29-4302-b51f-9aa23b472c1b,cherish,2021-04-18 19:52:53,audio,animals,positive,70
+16757b80-2803-4464-b5d7-e372d8d77337,hate,2020-11-11 18:52:27,gif,technology,negative,5
+ab4c4756-1c50-4136-bad9-3216e01ffac2,like,2021-01-06 17:22:36,audio,fitness,positive,50
+4478d98e-43e8-4dc0-884d-c1115aa8b970,worried,2020-07-29 20:23:08,audio,animals,negative,12
+34f73132-fff6-4f01-a5ec-4b4b66461fc7,adore,2021-04-27 04:18:37,photo,fitness,positive,72
+bfa4e11c-9d72-49b9-bd43-49d95c2e5181,like,2021-03-14 23:32:33,photo,veganism,positive,50
+220d9dc1-f8a5-422d-b200-3819f3b89b2b,hate,2020-07-09 18:18:14,video,dogs,negative,5
+ea1afba2-c0a8-4d0f-ac64-91fd7a126bbc,want,2020-07-10 19:34:03,gif,healthy eating,positive,70
+18b4da8a-5f22-4dbe-b2af-c9013581cdd9,scared,2021-02-19 13:10:01,gif,studying,negative,15
+259cd56f-b017-4a41-81a7-f26ce9b35092,intrigued,2021-05-21 18:53:43,video,culture,positive,45
+14ed7f7b-2c96-4458-8a39-606c25c14180,like,2020-12-19 05:42:08,video,tennis,positive,50
+c01fa154-5348-4040-9d20-0bbf01f6349b,interested,2020-11-05 19:47:01,gif,tennis,positive,30
+2d949603-6676-4402-900b-2c2c78315ea0,heart,2020-09-23 22:01:45,audio,culture,positive,60
+50c9237a-541c-4f10-a2be-7cbe076b2012,love,2021-04-02 07:32:14,gif,travel,positive,65
+5ecd7f9d-4184-4836-b1c5-f03e131ba0a7,heart,2020-08-23 04:16:12,video,science,positive,60
+e442899c-d2d6-4392-be2d-a0b916ae47fb,disgust,2020-09-21 09:10:22,video,technology,negative,0
+daab7b1a-fc8d-473e-bbf3-b29f4185ae56,interested,2021-01-17 09:47:07,video,science,positive,30
+82145a60-013e-4d96-81a5-399af8618158,adore,2020-12-29 06:36:26,audio,food,positive,72
+d852b946-01e1-44fe-abd7-26198660cbdb,peeking,2021-05-02 11:56:22,gif,food,neutral,35
+c59e27e9-0439-4699-8ea0-5e93f662a05d,adore,2021-02-02 15:29:19,gif,fitness,positive,72
+78713905-362f-4a87-9671-adab5f1e0e67,peeking,2020-10-08 00:01:27,audio,dogs,neutral,35
+87349e5b-eda4-4ae6-94d7-c42b9c5f03e9,worried,2021-04-04 21:40:54,gif,healthy eating,negative,12
+5fbbdd47-e1ca-4cd4-bb24-dd0eb03f99b0,cherish,2020-11-23 23:23:52,video,culture,positive,70
+ac1c59df-2803-4cf4-8ec0-fe6bd1f9ea44,disgust,2021-05-17 13:47:25,gif,soccer,negative,0
+026973ef-4b73-4901-9160-bc9e04516057,interested,2021-04-17 04:47:55,audio,culture,positive,30
+f08bdab2-b888-484e-8fd9-919e6ed86c12,cherish,2021-01-21 05:51:26,audio,education,positive,70
+a55b215b-06c5-4ef3-ac14-7e1569c3ad2e,intrigued,2020-07-25 09:08:10,gif,education,positive,45
+258bb775-3c35-4eec-90f3-8b75a52e466a,disgust,2020-11-26 14:04:36,photo,education,negative,0
+8d32243c-2dd1-4128-bde1-d643207e582c,hate,2021-06-07 23:57:54,photo,studying,negative,5
+e2c433d2-096e-484e-8c69-28f0bb69f3b7,disgust,2021-01-24 20:52:36,audio,science,negative,0
+3d8fffab-6107-4d7b-9485-c610e233c91c,adore,2020-10-21 22:49:14,photo,studying,positive,72
+409aa11d-5af3-4a70-9da1-482857f5835e,adore,2021-06-10 10:27:58,gif,fitness,positive,72
+aa9ea032-0fea-42c3-88d9-666685d4b32b,worried,2021-06-01 03:26:16,gif,veganism,negative,12
+eaddee3e-3a23-47cd-9785-ab7f2120a293,cherish,2021-04-26 21:50:13,video,science,positive,70
+9ef39aa2-60f9-4e4b-b666-c6cb97015503,want,2020-09-24 22:45:17,gif,travel,positive,70
+841403fd-321b-4118-90b3-cc0075d64047,want,2020-08-15 08:02:40,gif,studying,positive,70
+3724de8a-ec2f-4021-a3f1-605d551da9d0,peeking,2020-12-22 00:27:26,video,culture,neutral,35
+2d0926be-9a29-4e6c-b342-815c70172214,like,2020-10-27 08:50:27,gif,animals,positive,50
+dcaa5091-1246-4d3c-aed8-dcd8e1da69cc,hate,2020-10-12 11:41:20,photo,science,negative,5
+0491183b-be25-4108-b667-8c30d3cdbf50,peeking,2020-07-23 18:39:40,audio,veganism,neutral,35
+359b93ea-446f-4202-8801-db238de5de4d,interested,2020-08-31 00:43:08,photo,food,positive,30
+0adb9a94-210a-4e84-bca1-13db9452ff0e,heart,2020-09-05 16:55:49,video,healthy eating,positive,60
+3c510b35-43e2-4e84-a805-86c5ebddc4cf,scared,2020-08-21 22:18:08,audio,studying,negative,15
+86346263-02db-4020-a216-9e54f502f643,peeking,2020-07-24 14:13:44,gif,travel,neutral,35
+3dfdcf9c-aaa4-41ea-9a7c-b3ba09103467,adore,2020-09-11 13:59:32,gif,fitness,positive,72
+3529c44b-d0f4-4bd2-b6eb-be97d2f7623f,like,2021-02-07 16:37:48,photo,studying,positive,50
+45dbce0a-dbd8-4c4d-a492-4f5b84850d5c,peeking,2020-10-12 19:06:53,video,dogs,neutral,35
+c4f59a1e-3198-4968-b062-9e9fcc41403f,peeking,2020-07-08 04:01:11,gif,veganism,neutral,35
+9d94f180-947c-40f5-aa05-f1958759b7fc,interested,2020-08-29 18:49:07,video,science,positive,30
+6ef45d36-cd14-428c-b5cf-ad2f06371c6e,super love,2021-03-06 19:03:47,gif,cooking,positive,75
+497da46d-d5d5-45b0-827a-f2b75d7bf4c2,like,2021-03-14 21:28:50,photo,culture,positive,50
+da527dd0-4b7d-40a2-9fc6-89ef7c91fd87,intrigued,2020-09-24 07:22:45,gif,culture,positive,45
+fada6910-2cc5-4600-808c-1e6066f795a6,cherish,2021-01-17 23:29:43,gif,technology,positive,70
+be85274a-28f1-4c6d-9ea1-7b20d1e0c66f,want,2021-02-03 15:43:46,photo,culture,positive,70
+1de2f0f9-61ab-43fb-9180-6870824c63c0,peeking,2021-01-29 04:59:31,gif,science,neutral,35
+e18e10e9-ed2a-494b-b215-edce890b1df4,intrigued,2020-12-31 15:18:55,photo,food,positive,45
+c2d6e707-f00e-4fa4-a193-eb36272f58df,super love,2020-09-07 00:00:58,gif,veganism,positive,75
+af7971aa-5fd5-41d3-b6c3-583704a705a2,peeking,2020-10-02 03:25:21,video,healthy eating,neutral,35
+6d6cf6a3-4187-44ec-af28-91c99b584bcf,want,2021-04-08 23:30:13,video,veganism,positive,70
+5d8dbd6f-cc78-4f7a-a65c-cd9dde481dd0,dislike,2020-07-26 23:54:19,video,healthy eating,negative,10
+c8b044a9-8427-4b41-bc61-7b549ab1626c,indifferent,2021-03-14 06:42:37,photo,studying,neutral,20
+cd568dd1-70cf-45d6-b495-10eebff8c920,scared,2021-03-26 03:25:12,photo,dogs,negative,15
+72822fb8-8a40-4cf1-a86a-42140b3bf9f3,super love,2021-05-30 14:22:47,photo,travel,positive,75
+ef99fd68-74fb-4c72-bc70-742ebca14499,like,2020-08-20 00:06:38,video,soccer,positive,50
+d147ab3c-4097-4eec-b4dc-480e4ece801b,heart,2020-10-07 13:11:59,audio,culture,positive,60
+62681a6c-fe82-4186-ba7d-0805ae5b95ed,super love,2020-06-29 23:51:06,audio,veganism,positive,75
+ec8e2d25-5730-4753-a0a2-d1ed41e23623,worried,2021-05-18 19:46:57,video,healthy eating,negative,12
+67f2a150-6086-4cbd-8d21-46250ccef5a2,peeking,2021-03-03 01:28:18,gif,cooking,neutral,35
+65545cfb-59bb-4dc1-a38b-82f268210da2,peeking,2021-03-27 03:20:44,audio,technology,neutral,35
+433607b3-eeb4-48b8-9263-9805c1b89d55,indifferent,2020-09-22 14:47:22,video,education,neutral,20
+1000371f-7758-4c44-a1bc-41fd836b0bcb,disgust,2021-01-23 20:42:09,audio,studying,negative,0
+5a5bf39d-1bfd-43f9-b304-ea8fbaaa3528,adore,2020-12-03 15:40:27,video,studying,positive,72
+8e3896e3-2f84-4b47-9365-fb562c9ed730,super love,2020-11-21 02:19:27,video,public speaking,positive,75
+de9796a6-d19d-4c41-a965-7aa4dcc69fee,dislike,2021-02-26 09:45:09,audio,technology,negative,10
+e4466189-0b96-4cc4-9d7d-d0f27b982548,disgust,2021-02-03 17:39:08,gif,education,negative,0
+391a9aa4-c04a-431e-8366-712d92267c2b,cherish,2021-05-02 03:28:01,video,public speaking,positive,70
+e8edf506-36c9-43a7-a685-8b9f6467e4f9,like,2021-02-24 14:54:02,video,studying,positive,50
+36d36f19-7a10-4d7d-a3ab-a3f2cbbfcf4a,dislike,2020-12-24 05:32:18,photo,food,negative,10
+c7066a17-2e12-49d2-bb9e-c8967051f490,peeking,2021-03-07 10:26:06,gif,public speaking,neutral,35
+f01ec49c-3179-43bb-b127-2b1a73f34b06,love,2020-09-24 21:08:29,photo,animals,positive,65
+c6cbd704-9d4a-4ace-b61e-e5df74ee83af,adore,2020-12-21 04:25:53,photo,education,positive,72
+eb6fc324-f85b-4bfb-b712-0a3eceb0b9d7,super love,2021-05-24 23:17:37,gif,soccer,positive,75
+b6c24086-becf-4615-801e-c3c298a8d4e2,worried,2020-11-21 01:41:39,photo,travel,negative,12
+1beeffff-f261-435f-a109-6fafe46669d4,love,2020-09-28 02:42:22,photo,public speaking,positive,65
+61e6650c-5068-4575-9aee-4217ef3dbdb1,intrigued,2020-08-08 07:52:41,gif,tennis,positive,45
+3a7f83a0-b9f9-44c1-a15d-656c4095e732,disgust,2020-10-15 10:31:03,gif,soccer,negative,0
+2b6921de-e7f2-4e30-8feb-36bd41becaf0,scared,2021-01-26 07:21:19,audio,travel,negative,15
+b56a9e24-d0f2-4599-b893-c2889a15e1d6,heart,2020-10-30 03:41:24,video,veganism,positive,60
+d706b190-216c-4103-9107-fb7304766d68,interested,2021-01-22 03:50:10,video,cooking,positive,30
+61b45c79-c23b-4bbd-a4fe-0bb3611486c7,indifferent,2021-05-12 05:24:30,audio,tennis,neutral,20
+2c511a63-5eb5-422f-8483-c9fcf9a29b55,interested,2020-11-26 02:26:56,gif,technology,positive,30
+edc4a60a-b5ba-4178-b99e-9d34ed92599c,peeking,2020-11-22 10:30:11,audio,technology,neutral,35
+2cbbdbf6-b34e-4fbb-bdc6-904e61f91ce7,hate,2020-08-30 10:16:32,photo,animals,negative,5
+e51b00b8-49d4-4909-9f25-8e9a06e28728,love,2021-01-31 11:57:14,video,soccer,positive,65
+509a5fb0-9bb2-4809-9f90-18ae007acc94,adore,2020-06-26 19:40:53,video,dogs,positive,72
+f1038e6c-5292-4e20-a866-675e1637d6b5,dislike,2020-12-27 22:02:53,gif,soccer,negative,10
+08cc29f3-a22d-4652-8f27-ff9e0a826289,indifferent,2020-11-11 04:13:10,photo,technology,neutral,20
+a784c1dd-e2ab-408d-a0c3-226a51d420e1,heart,2021-06-14 22:02:35,audio,technology,positive,60
+3a106d1f-3942-49d4-9358-417f33d760c6,love,2020-11-12 14:33:58,photo,fitness,positive,65
+1830df30-c239-4287-8d63-fadcb8ced884,peeking,2020-09-23 14:38:19,video,veganism,neutral,35
+5bb364a6-8646-4cdb-b1cf-09f4125718d8,hate,2021-06-07 05:28:44,audio,soccer,negative,5
+dd2f8912-9b97-40cb-ac5f-215f98d4d733,peeking,2021-02-03 06:46:35,gif,fitness,neutral,35
+de95cdb1-a85a-40de-8467-892e2d1481af,want,2021-02-28 21:06:15,video,education,positive,70
+e5f1a4c6-2b27-4c8b-ac9a-21bb6ef7c946,want,2021-02-12 11:54:33,audio,soccer,positive,70
+6199f5ca-cc02-410d-a408-e034946de162,disgust,2021-04-09 00:41:02,video,animals,negative,0
+8490c29c-177f-4c21-9d37-d509f9287f30,indifferent,2020-09-15 12:36:08,gif,tennis,neutral,20
+bf8e2e7a-7a90-47f8-8dd6-01f8c6aa32ed,peeking,2020-08-27 21:56:51,video,science,neutral,35
+5651450a-d330-46e6-bac9-c7c7e7defaf2,intrigued,2021-04-04 21:54:24,photo,animals,positive,45
+7c2e209e-acea-4246-a32d-636e2f2cc2c1,adore,2020-09-03 09:49:40,video,dogs,positive,72
+a72552ac-cad2-4707-8bc6-dea84a5ab72b,adore,2020-06-27 06:48:09,audio,studying,positive,72
+1bbdebad-2218-46fd-8afc-ddd9b4d56d97,scared,2020-10-17 22:47:11,photo,veganism,negative,15
+2eb7feec-26a4-4949-8470-3e66c16536e9,worried,2021-03-11 14:44:01,video,tennis,negative,12
+0d3d0a35-f806-4536-8733-abf1f92763e2,worried,2020-10-10 06:33:02,gif,studying,negative,12
+f783f128-6f66-4ef3-a190-5afc29d17012,intrigued,2020-07-15 12:21:17,gif,tennis,positive,45
+7bb8c7ec-8d65-43e8-a9fb-ac01936b18cc,interested,2021-04-13 07:22:16,video,cooking,positive,30
+6e418568-a2b9-4d08-b241-06362c96a7f1,super love,2020-10-14 15:17:19,video,food,positive,75
+93c0f4f6-8c1e-453e-8df0-3015b1e76376,peeking,2020-07-09 12:48:12,video,technology,neutral,35
+2893a837-3157-4bbd-918f-adc93b60480a,scared,2020-10-26 18:29:33,photo,healthy eating,negative,15
+34123572-64b7-4f3d-b098-a2651d882fb2,peeking,2021-06-03 04:59:33,video,dogs,neutral,35
+811834bf-44bf-47f3-ae30-e305591177d6,worried,2021-03-17 14:59:31,gif,animals,negative,12
+c6f6e0f3-9fae-4bf9-abb3-cd7248a51061,interested,2021-04-30 15:25:15,audio,culture,positive,30
+8f3cce80-d539-4f83-84f6-901e524c088e,want,2021-04-12 16:32:00,video,travel,positive,70
+27fffa3e-000d-4f29-9358-5b0d2280d18c,love,2020-10-20 11:28:31,video,dogs,positive,65
+3c092e34-bac9-4e63-a7fa-0608fb73914f,interested,2020-12-23 15:25:08,video,soccer,positive,30
+413101f7-ea05-4df6-97cf-9891245c5ed7,adore,2020-07-22 15:08:25,photo,science,positive,72
+6be333ca-7797-41a5-9a2d-e198037d30ed,like,2021-04-21 04:02:38,audio,food,positive,50
+c136ae25-d882-4e2c-b515-5727ad2626a5,disgust,2021-04-19 00:15:40,photo,soccer,negative,0
+bd810ca4-54cf-420e-afec-0214b870672e,hate,2021-05-13 03:38:32,photo,technology,negative,5
+ba9ce407-672c-4ceb-9c1f-59590fd187d0,indifferent,2021-05-07 08:59:01,audio,fitness,neutral,20
+fa781e01-b928-401f-86f4-d42b0a3b55ab,interested,2020-08-27 16:13:07,photo,studying,positive,30
+43e53b12-71cb-4aad-9cb7-8c3572053230,indifferent,2020-08-28 12:17:19,audio,fitness,neutral,20
+a58c963f-1bec-4eee-b66f-60062a9dd96e,hate,2021-02-19 12:01:02,video,dogs,negative,5
+2c0e1f1e-1af8-45b6-b8f2-9714358dd2ad,disgust,2021-03-16 14:47:13,audio,travel,negative,0
+748ab616-8066-4c61-b6af-d7442545d12a,want,2020-10-04 17:40:21,audio,veganism,positive,70
+e0fe9c2b-0e5f-46b3-bb4a-f68bf569e867,interested,2020-08-29 23:17:51,video,science,positive,30
+734c0b94-6729-44ef-af97-90a3a51a466c,want,2021-05-06 18:34:39,video,travel,positive,70
+43da458b-66fe-4723-996c-57dcfad67edf,hate,2021-06-14 22:38:47,gif,food,negative,5
+3d02ae44-c8f2-4d2d-a64c-9355a4f46430,like,2020-12-19 16:21:40,gif,fitness,positive,50
+7dc268e5-b50d-4280-82aa-e08af75a8a0a,worried,2021-03-30 20:03:52,photo,science,negative,12
+d0e55134-c60e-4a05-999c-d7697b4901f0,cherish,2021-02-22 02:04:35,gif,cooking,positive,70
+ebdf5d36-9ecc-44d7-b641-d33805709452,peeking,2020-07-28 01:03:23,audio,cooking,neutral,35
+1429467d-e8a2-4292-bd46-921e8bd87b30,scared,2020-12-07 16:21:32,video,public speaking,negative,15
+f0d1b3ed-f1dd-4a09-b17a-b0f241932fbb,adore,2020-06-26 04:51:04,audio,studying,positive,72
+7d459555-a816-4d20-893c-a002e0a74ce3,adore,2020-12-17 23:42:28,audio,healthy eating,positive,72
+e6b61eab-6879-4618-b189-476f27f02fdd,intrigued,2021-01-17 03:38:02,audio,science,positive,45
+d16d21cd-30c7-4b1e-b50c-aff5808fe816,heart,2021-04-25 16:18:40,photo,fitness,positive,60
+27ec2b21-a749-4181-b182-150a174fc277,peeking,2021-03-20 14:10:59,gif,animals,neutral,35
+8bcb980c-6f36-484d-974f-30b3e8fcc251,intrigued,2021-05-12 13:10:54,photo,travel,positive,45
+bac28166-5b8d-4f5d-88da-8c8f9a1c3f5b,cherish,2020-12-08 12:37:50,video,food,positive,70
+1f466010-5c87-4b81-be83-5856481231fb,heart,2021-02-18 13:53:31,gif,soccer,positive,60
+496645a7-64f7-4c56-94f5-a71671cb262e,heart,2021-02-02 16:47:16,gif,dogs,positive,60
+d6d4ec49-4210-44de-9f90-c93dfbeed084,peeking,2020-08-04 18:17:13,video,tennis,neutral,35
+229d5bad-c1e4-439c-8978-0efdcdfea4d1,peeking,2020-08-06 14:06:55,audio,food,neutral,35
+80d4bec9-6441-41a2-be74-0eec3e5317ef,interested,2020-07-08 04:28:01,video,tennis,positive,30
+457d54ed-e0bf-4574-80e3-561c1bbc4d3e,disgust,2020-09-21 23:13:47,gif,science,negative,0
+57a8bb62-a264-42d4-a1b0-6e4c0f859a5e,hate,2021-02-09 08:16:27,audio,cooking,negative,5
+ff883828-a610-492d-8635-8a777eaad25f,disgust,2020-12-27 12:13:58,photo,education,negative,0
+48a824bf-e495-4333-8acf-c800947ec2cd,super love,2020-10-03 05:31:35,audio,soccer,positive,75
+2019333d-2b9c-4a22-904c-d1f1aa9c68bb,intrigued,2020-10-16 23:51:44,gif,food,positive,45
+88d65e30-7ca0-4f32-a020-45c4cb3d9632,cherish,2020-11-24 22:56:16,audio,travel,positive,70
+05776481-7b58-46d8-abf6-bf4de7831287,like,2021-04-18 20:49:20,audio,travel,positive,50
+323c35ed-081f-4efd-8bd6-ce5208ceb0ed,worried,2021-02-28 19:16:32,gif,animals,negative,12
+8b51c05c-a8a2-4a6c-b031-165fb7bac840,want,2020-09-17 09:14:14,video,dogs,positive,70
+58059956-4cde-4671-9baf-904851731540,worried,2020-08-25 21:57:13,audio,education,negative,12
+a429d355-8983-40a4-aa2b-c3f47acd5499,love,2020-11-01 07:16:21,photo,veganism,positive,65
+c9ab41d2-5728-4d94-b16a-1e9b7af9b21d,adore,2020-07-13 22:31:53,gif,veganism,positive,72
+429632b9-88c0-4163-a7ed-4272a04f7838,hate,2020-08-15 14:52:28,audio,animals,negative,5
+281054fd-2b89-4191-92ae-98e1bc0ed51b,scared,2021-02-11 00:33:11,video,fitness,negative,15
+ebdf9868-075e-4fca-a3de-ef7b2cd8f7a1,cherish,2021-03-15 21:47:31,gif,education,positive,70
+8ef185a2-8910-41f5-a109-95c925ebffa0,disgust,2020-06-29 22:39:06,photo,public speaking,negative,0
+839d117b-c764-4930-99f2-a6e4d1b47790,worried,2020-10-16 09:56:09,gif,cooking,negative,12
+db672f6f-2f5b-47bd-aed6-bfc22188de4d,scared,2021-01-29 03:30:54,audio,soccer,negative,15
+037189e3-18c0-4f6c-a8cc-d6b86d679891,like,2020-10-12 05:40:35,gif,food,positive,50
+909cbb46-9789-4e9d-9148-890e5c44a9e2,heart,2020-09-14 21:52:20,audio,animals,positive,60
+ceba816b-72ea-4682-8795-8569a46bb1d6,cherish,2020-11-01 22:36:39,video,dogs,positive,70
+1987b43d-bcb9-4ab0-8634-ef3623928e94,peeking,2020-07-24 12:15:10,photo,education,neutral,35
+1a69604e-95a0-4b91-8051-f3730b7e009b,super love,2021-03-29 10:52:27,video,fitness,positive,75
+3e64dfe3-e832-4352-a170-9806f64ac507,worried,2020-10-31 03:59:14,audio,healthy eating,negative,12
+30c8a141-2c2e-4272-8854-ff5673509652,interested,2021-03-12 18:17:03,audio,culture,positive,30
+d029d393-b80b-4a56-9450-7645ee42da07,like,2020-12-14 01:55:58,video,healthy eating,positive,50
+4ce7258e-3777-42b4-af6a-dd8898c42cfd,dislike,2020-08-26 23:18:49,photo,travel,negative,10
+75747dd7-8dad-4f2f-9209-62765223f3af,disgust,2020-12-26 08:11:51,photo,fitness,negative,0
+b47f0569-8d01-4ac4-a4ed-0fcc94cb96fc,cherish,2021-04-10 11:41:08,audio,studying,positive,70
+b1c49557-0623-4fb2-8f22-1453286fedad,scared,2020-07-25 14:57:14,video,healthy eating,negative,15
+96209724-37a8-475b-b80a-03e96a7c33b1,indifferent,2020-06-30 02:33:04,gif,fitness,neutral,20
+bb9dcde7-55bb-4fb8-b349-caa58fb08823,super love,2020-11-21 09:17:28,gif,healthy eating,positive,75
+a0606e08-1798-44f5-a575-28e82f79dfe3,like,2021-05-03 02:48:42,video,veganism,positive,50
+b7a5e38b-b990-4b8e-aaac-6cc9ee77f3d9,peeking,2020-07-17 23:08:17,video,cooking,neutral,35
+3dc03a86-f481-42fa-bf43-a7bcf3b6572e,disgust,2020-08-10 20:36:02,audio,fitness,negative,0
+baf5959e-204c-4acc-838c-87617e79f448,disgust,2021-03-08 11:46:25,gif,fitness,negative,0
+18a07663-ba3c-4ff9-94d3-bd533aa853c2,peeking,2020-07-20 00:32:17,audio,veganism,neutral,35
+dc78a872-9057-4a8e-9a25-a1c407c1b7c9,interested,2021-01-14 04:43:26,audio,culture,positive,30
+a3d563e1-c7a6-4367-9195-cddc36863735,hate,2020-11-23 10:55:49,audio,healthy eating,negative,5
+350e0d40-e036-459c-9cbe-73e003c33cfa,peeking,2021-02-13 23:32:11,photo,technology,neutral,35
+0e2169f4-b881-42d0-b99c-034b32f83504,want,2021-01-31 03:41:48,gif,food,positive,70
+60ca0278-5ed6-4669-939b-e6dc2021c07d,like,2020-10-30 17:33:42,gif,technology,positive,50
+13a4d35c-761c-47a3-b25b-5cc5825d04f2,interested,2020-09-23 03:18:26,photo,travel,positive,30
+062cbf2f-fc22-4357-8890-63e7f13fcd37,interested,2021-04-26 05:16:19,audio,education,positive,30
+45752c15-a54c-4b0d-8fe3-f39c40f6c8d9,like,2021-05-18 17:53:13,photo,education,positive,50
+a3e93c2d-7fb4-4881-994d-ee20ad564924,worried,2020-08-29 09:58:41,video,public speaking,negative,12
+5b379d75-649b-426f-b420-4e0b6e4a0e3d,cherish,2021-04-19 18:48:25,video,soccer,positive,70
+7fe36d94-8867-4719-9c62-60b077cf5973,dislike,2020-07-10 18:53:40,photo,travel,negative,10
+56df8914-9d42-434d-9612-6bb518dd641e,dislike,2021-05-23 03:43:36,video,fitness,negative,10
+78461336-26e2-4d0c-ab9a-fefbe419a8dd,interested,2021-02-03 02:21:15,video,dogs,positive,30
+25934ec0-56f1-4fe1-9bf4-d46b1dbb42ad,peeking,2020-10-12 04:43:39,photo,veganism,neutral,35
+637f80dd-2d70-4658-ba5f-8d909b050781,interested,2020-07-14 10:38:00,video,studying,positive,30
+cb807d6e-079e-417e-adfc-759df6eddfa2,scared,2020-10-24 02:47:17,gif,veganism,negative,15
+227a8c57-e5a0-46a8-999d-fcdea42c0905,dislike,2021-02-10 18:37:44,photo,education,negative,10
+94be0dfb-a23a-4426-9c3c-e4db1fd914b5,cherish,2021-03-22 03:30:15,video,public speaking,positive,70
+19179d57-4950-4a98-87fa-98f824551a6f,cherish,2020-06-25 09:34:06,photo,education,positive,70
+3926740f-e4f7-4229-9aad-e435149d0d2f,love,2020-09-30 10:41:52,photo,science,positive,65
+590873fc-e921-4396-a173-a43451675afc,interested,2020-11-01 19:08:46,gif,studying,positive,30
+b4c71928-99f0-4f1e-bdff-3d99c16113ac,scared,2020-07-07 08:05:20,video,travel,negative,15
+c7b02507-18a2-4169-91f1-4fc727c8bc03,cherish,2021-02-13 08:31:30,gif,dogs,positive,70
+70b0202f-cd58-42fe-acd9-7b2f8cf9e7c6,dislike,2021-04-21 00:57:07,video,cooking,negative,10
+2677e7fa-4c0e-44c5-9d4c-66615a42e86f,heart,2020-10-05 14:11:03,photo,dogs,positive,60
+4b10b6a2-d8ad-4f48-835a-e0ec47e7e72c,intrigued,2021-04-17 21:34:38,photo,education,positive,45
+990ad477-b9eb-4ea6-9ec8-3f941f53b758,peeking,2020-10-05 15:04:01,audio,animals,neutral,35
+2240bbde-db67-4d73-b885-f0117b4b2080,heart,2020-08-14 02:22:14,video,food,positive,60
+8338222c-c31f-40f3-883c-44125f36bae8,disgust,2020-09-15 10:38:02,video,education,negative,0
+59bb59ce-776b-4d28-85ee-c0d71c690b6a,like,2020-07-31 00:06:10,audio,animals,positive,50
+bb3901bd-a3d9-4f45-8b0c-0548c36385d2,worried,2021-05-16 10:46:49,audio,fitness,negative,12
+b814490f-ff17-4f98-8fb0-cade9c2d8e61,indifferent,2020-09-03 06:52:54,gif,culture,neutral,20
+72878c11-38cc-4442-bc81-7eeef47c531c,dislike,2021-05-25 14:23:03,gif,animals,negative,10
+b50871e0-183e-4a1d-884b-f20fb271041b,love,2021-02-19 17:59:33,photo,cooking,positive,65
+5163acf9-9bde-4f09-81e2-d8711e774360,like,2021-01-14 03:41:09,audio,healthy eating,positive,50
+802a8533-3051-4e2c-ad30-7751ece5d514,worried,2021-01-30 14:39:26,audio,food,negative,12
+8f12f846-7528-4516-aa7c-f937d868c904,peeking,2021-02-17 09:51:20,gif,culture,neutral,35
+35489ad9-c3b5-4fcd-a6c0-9f2c667c55a8,want,2021-05-02 00:29:15,photo,studying,positive,70
+636e6499-b670-4cd4-a829-2c4c9e07db2a,indifferent,2020-12-31 20:12:39,photo,soccer,neutral,20
+2363df47-ee8b-433d-bbfc-34d5ac57e2aa,scared,2020-06-27 01:13:14,audio,travel,negative,15
+ac120787-f331-497f-8733-7cd63dfd36b6,love,2021-03-16 12:13:16,gif,culture,positive,65
+9ec9b340-df2d-472f-9a7f-80b4790788e6,heart,2021-01-04 21:41:25,photo,travel,positive,60
+5c38166c-8305-4227-ad54-bad36df2a57a,super love,2021-06-04 18:40:03,video,fitness,positive,75
+da8f7258-6757-4a7e-892e-a16b925ef83b,indifferent,2020-08-10 11:42:53,photo,cooking,neutral,20
+e3c37598-5a41-471c-a65b-e0e1bef2f3ec,intrigued,2021-01-11 14:31:16,audio,tennis,positive,45
+ecbba40a-93f2-470a-b565-938f61f527a7,peeking,2021-04-07 03:32:03,audio,public speaking,neutral,35
+05805658-8744-4cc4-825d-cbfed0ecea7c,dislike,2021-01-25 08:44:27,photo,technology,negative,10
+962e5969-cd65-4670-a2ae-b0266908426b,want,2020-08-03 11:55:57,gif,studying,positive,70
+6fc7f722-0a93-4420-8376-09d6536ecef8,disgust,2021-01-24 03:14:25,gif,fitness,negative,0
+e611ee64-7ada-428d-aa37-94c8c0782a91,peeking,2021-01-22 09:24:17,gif,cooking,neutral,35
+e96d9fcb-b5be-4382-b809-6315dbe6f89a,adore,2021-03-03 21:10:44,photo,tennis,positive,72
+a7a7c909-15cb-4719-835b-cc9f835feb50,cherish,2021-03-04 14:45:24,gif,animals,positive,70
+77099957-1551-435e-b386-704d8b91a46e,cherish,2020-08-30 08:00:42,audio,cooking,positive,70
+760e026f-8373-4aa4-acb5-03eb102fc733,dislike,2020-10-17 16:34:02,audio,food,negative,10
+5c7fa152-9628-471d-b715-84e15c4b5d38,disgust,2021-04-27 00:03:12,audio,tennis,negative,0
+25948d39-4549-4ead-be71-6a571bd56fe1,indifferent,2021-03-15 21:17:45,audio,science,neutral,20
+d03efe68-5986-48c4-8767-93b8f5881004,scared,2020-08-27 06:14:06,gif,animals,negative,15
+678dd299-afc6-4e35-890d-38a016cfdeff,adore,2021-03-23 23:56:53,video,public speaking,positive,72
+4bdd31e0-2f59-4262-bcbe-546678a3d203,like,2020-08-01 05:27:20,photo,healthy eating,positive,50
+11b96207-c1c5-4083-948d-2942684aae0d,adore,2021-05-21 00:29:41,photo,studying,positive,72
+51a26a10-6973-4882-aa88-98b53978ce01,want,2021-01-04 04:26:33,audio,veganism,positive,70
+693b5f91-52b1-4464-916c-91adccbec996,interested,2021-04-04 15:29:12,photo,culture,positive,30
+4898f7e1-1431-4e9c-a444-dbea02d58f85,want,2021-06-05 18:01:53,gif,food,positive,70
+8ea001b0-f13b-420f-b0f2-0cc35bdcd152,worried,2020-06-28 15:26:25,video,studying,negative,12
+42afb980-6f27-40d3-962e-bff8eada090f,disgust,2021-06-11 17:51:57,gif,culture,negative,0
+70a9e79f-ca7b-48e1-b521-c1d16cb2e36d,want,2021-06-03 10:39:53,gif,education,positive,70
+7dfe344f-172b-4d1d-a9a5-d63e7a097642,like,2021-04-01 18:58:55,gif,culture,positive,50
+581634a6-14c7-4c0a-8c7f-34238e58cf6a,adore,2020-08-25 01:30:24,gif,veganism,positive,72
+1e773c55-ec7e-47f2-916d-98d0b778a048,adore,2021-02-02 12:15:19,photo,food,positive,72
+c63235b6-aad7-42ff-96ba-978e47a6c5fc,like,2021-02-12 18:29:53,gif,tennis,positive,50
+194f1ad7-43bf-4cdd-a01b-e6947df47403,like,2020-11-22 18:53:44,gif,tennis,positive,50
+85e013ce-3474-4c9a-a4ea-7b726a29baae,worried,2020-11-01 13:30:51,gif,animals,negative,12
+212b7926-c743-45d9-85f2-63e0e8f85208,indifferent,2021-04-03 16:37:24,photo,dogs,neutral,20
+cb14a57b-9a8e-4694-9516-5a7d2ec41438,heart,2020-06-29 08:19:38,gif,soccer,positive,60
+f5d6cb3a-923b-45fb-857a-7250b679625e,intrigued,2020-10-24 13:51:43,video,travel,positive,45
+9a5951a5-a36f-404e-a746-f6023c160fc0,interested,2021-03-05 21:45:12,gif,science,positive,30
+26ea4466-0d88-482a-afab-e502beb4a316,adore,2020-09-27 22:56:37,video,fitness,positive,72
+9ee8836d-af4b-46ad-8869-4e0b1dedff7d,intrigued,2020-07-01 03:26:53,audio,tennis,positive,45
+b81f446e-be9b-4fff-8faf-7732c6306c75,worried,2020-08-17 21:18:35,audio,cooking,negative,12
+d72ea14e-16fb-4e2d-acf1-59a29dfa21df,like,2020-11-13 04:24:46,audio,public speaking,positive,50
+a059c110-6fab-4a4f-9482-eaf2c269911e,peeking,2021-06-03 10:22:21,gif,food,neutral,35
+b90bb1f2-9dbf-4802-a0e2-103dac50d272,love,2020-12-22 15:20:21,video,fitness,positive,65
+31f3802a-fe3d-441c-8732-102bd39f6db5,love,2021-05-26 23:55:43,audio,science,positive,65
+4b582733-141e-488f-8d02-3c4b149815a5,super love,2020-08-16 07:01:40,photo,fitness,positive,75
+4e659bd8-44b6-41a3-893c-c528474a29c9,disgust,2021-03-23 03:55:52,video,education,negative,0
+8866b759-c55c-4fd3-9753-8a69265c481e,like,2021-02-02 03:50:48,video,science,positive,50
+915505a1-6d75-4894-8200-0f088c19431b,cherish,2020-11-15 04:11:51,video,cooking,positive,70
+eec5dae8-e4d0-4b15-80a9-ac55352cb5ca,like,2020-11-22 19:32:52,gif,cooking,positive,50
+3ce1063a-2277-4285-97b0-9bd53a941cd7,interested,2021-01-22 09:40:30,gif,travel,positive,30
+42d062ec-2107-4fbe-9a77-2e00c67a7d63,like,2020-11-13 15:31:38,gif,culture,positive,50
+1089b539-bbb6-4ef7-ba3e-a15af2bc5f42,heart,2020-12-24 03:32:49,photo,food,positive,60
+2d10f5b0-c590-429f-8b68-52c239617d26,dislike,2021-03-21 22:58:31,gif,technology,negative,10
+e75a100d-18a9-47a5-9554-1843ed350dc9,interested,2021-05-20 19:37:59,audio,cooking,positive,30
+cb0bd265-610e-4d5f-bc00-1732f58562dc,dislike,2021-04-30 08:12:45,gif,science,negative,10
+b2344491-76af-4b2c-b569-e9af85298b30,super love,2021-05-27 21:51:06,video,culture,positive,75
+178f85a7-c2d1-4127-94d2-30adf96ae7fd,dislike,2020-09-13 17:52:13,photo,science,negative,10
+89cf06bc-e921-4cfd-bd16-d071757d90a2,disgust,2020-07-19 04:41:42,video,animals,negative,0
+16fb5dcb-4349-4831-acf2-8c116ad7dae5,heart,2020-06-22 06:03:43,audio,technology,positive,60
+0d5eb9fd-879d-4716-aebc-840f7b1b7e9f,peeking,2020-07-27 09:36:42,gif,dogs,neutral,35
+e4827a5c-c604-4aad-b7ed-b396b3601b74,scared,2020-08-30 18:11:27,photo,education,negative,15
+abecd821-ad3d-43b0-a550-aadd9d267072,scared,2020-07-12 10:13:15,video,tennis,negative,15
+0289b7bc-bc95-4f1d-83fe-9ca662194158,intrigued,2021-05-21 20:30:37,audio,tennis,positive,45
+3a7b85dd-717e-4460-8144-498fdbc9380c,super love,2020-12-14 21:39:20,video,education,positive,75
+03e51c25-cba9-471b-b627-f15550b83fca,worried,2021-01-30 21:29:07,gif,veganism,negative,12
+daeddfcc-c030-4674-8317-56a23ab81799,indifferent,2020-11-10 00:12:21,audio,animals,neutral,20
+71246f1e-0b64-4922-a6ae-c86c446837be,like,2020-11-07 13:22:14,video,healthy eating,positive,50
+41bc0418-db4b-48b4-ada6-18eda999cd25,want,2020-10-06 13:27:03,video,travel,positive,70
+31d142d9-4557-4613-bce5-cfe63cd0a3cf,super love,2020-08-01 06:23:05,photo,soccer,positive,75
+77f0131d-a06e-40d6-8f6d-a64c0491d1b5,cherish,2020-11-21 04:45:03,audio,healthy eating,positive,70
+ad5ddd13-b8ea-4174-ad71-da1663c7f959,cherish,2020-08-21 00:43:19,video,technology,positive,70
+447954af-c2c0-4546-881c-3ba1cb104209,disgust,2021-04-27 18:36:47,audio,tennis,negative,0
+a8d3e5b8-7838-477c-82ce-4c90029e56ce,interested,2021-04-03 06:36:44,photo,public speaking,positive,30
+a412c4fa-42c9-4bd8-a2d7-1ad1dcbe9615,peeking,2020-11-18 19:58:45,video,dogs,neutral,35
+3b436c19-72fe-429a-80dd-88d24ef549d1,hate,2021-02-08 21:53:45,video,soccer,negative,5
+0c042b6c-725e-4591-a666-cf32c5ec7cc8,peeking,2021-04-09 15:50:27,audio,public speaking,neutral,35
+dfdf6d34-e60b-4d21-9973-4bf07769be78,peeking,2020-07-15 11:20:44,photo,public speaking,neutral,35
+cebae43b-4f77-4689-86e0-66fb107d5eef,love,2020-11-13 06:50:32,gif,culture,positive,65
+7e2e14e2-79eb-41d0-8d5f-eba20460f049,interested,2021-02-06 17:58:06,photo,dogs,positive,30
+34cb120b-853b-4788-8978-a3544449136b,hate,2021-01-03 18:20:41,photo,food,negative,5
+e4fd43f5-c0cb-47cd-bc41-1e07a8081323,worried,2021-01-11 02:07:50,gif,soccer,negative,12
+e4306fd4-391c-4016-8b5f-98594bb647a0,like,2021-03-10 21:47:17,audio,healthy eating,positive,50
+697af362-e84b-4429-b4ea-4123c6ab44ba,dislike,2021-02-24 15:37:22,video,science,negative,10
+8f640e2f-27bc-46cc-a43a-f750e357fc35,worried,2021-01-03 14:00:24,video,soccer,negative,12
+f2143553-d9cd-4d8d-8276-98557a0054af,indifferent,2021-04-25 03:00:46,photo,cooking,neutral,20
+f4c8e6bb-e282-41f3-a000-bbabae7dbf04,interested,2021-04-21 11:22:58,audio,technology,positive,30
+ad8bc9be-50a3-491a-b240-49b8f573238e,worried,2020-11-19 00:35:44,gif,soccer,negative,12
+54acd843-1e09-4b30-a80a-b9e0295ff269,dislike,2021-05-02 20:54:54,gif,tennis,negative,10
+972b6e82-421f-43f6-905c-2168933de18f,worried,2020-10-16 08:23:56,video,animals,negative,12
+f6c9e663-620c-4d18-9494-7eea83fbf4b7,like,2021-05-06 23:41:37,audio,animals,positive,50
+78c7c5a7-5de4-469e-8460-49e8e491bde6,scared,2020-07-03 04:27:45,gif,public speaking,negative,15
+d75016e9-9817-47e7-a2f9-dbfae392d3d6,scared,2020-07-30 04:29:46,gif,culture,negative,15
+567ddaca-f9aa-4e53-b9b7-b745a1ac0c95,indifferent,2020-06-23 04:44:15,video,culture,neutral,20
+46bd9a52-6547-457f-87fa-0e434e5bc61c,heart,2020-07-22 22:42:57,photo,fitness,positive,60
+bc1f22da-d7b2-49d8-a6f1-1132776b4b18,worried,2020-09-16 23:33:28,photo,culture,negative,12
+501b2f88-999b-4ad9-b2f5-4b9c36a31259,want,2020-12-11 05:50:23,photo,cooking,positive,70
+df15da28-c038-4d0c-a63a-eac77f650ee3,interested,2020-09-28 06:28:54,audio,tennis,positive,30
+0da2523f-acc4-4687-9844-45eaa5e90c65,dislike,2020-12-10 08:32:55,video,technology,negative,10
+bc9cc9ed-3e90-4fef-a1e8-d54b31e88f30,hate,2021-04-10 09:56:23,photo,healthy eating,negative,5
+b6ecb09e-a706-4589-bb75-70cb1cc590eb,love,2021-02-17 22:32:41,photo,culture,positive,65
+23a1f257-2f17-4e67-aec1-626c77d73216,indifferent,2020-08-14 17:42:10,gif,studying,neutral,20
+02ba5af1-784a-44cc-ae3a-14833c4a2237,peeking,2021-05-23 10:26:57,video,healthy eating,neutral,35
+c84f903e-32ae-4ce1-b66b-d876439fccf5,like,2021-02-14 20:25:19,audio,healthy eating,positive,50
+86f4e4df-636a-48f5-bb66-03ea4fd00214,intrigued,2021-01-08 05:33:18,photo,veganism,positive,45
+b27bfcfe-64df-499e-b60f-f93d2200c589,heart,2020-06-25 18:01:49,video,soccer,positive,60
+91f7585b-c756-475b-9f21-877d7c48b579,adore,2021-06-09 08:11:09,photo,soccer,positive,72
+9a2c328f-16aa-490c-8ca2-c7deaa90db3f,peeking,2021-05-01 18:05:19,photo,culture,neutral,35
+800f467b-53a3-4d20-9342-51fe4fa36ebb,heart,2020-10-03 19:27:52,gif,food,positive,60
+b07a2298-7c03-49b3-a0a6-c65333847598,super love,2020-12-21 06:12:51,gif,culture,positive,75
+38a50d44-5a3d-41c1-bf46-58638def9442,indifferent,2020-11-27 21:14:05,video,fitness,neutral,20
+45d2d284-1830-45a3-8c9d-95f8bdec3202,disgust,2020-07-15 22:46:42,audio,studying,negative,0
+2dcf2359-f366-46a4-8ac0-14229d056bb3,super love,2020-06-27 13:49:04,audio,studying,positive,75
+f7c26d94-b7c6-45a0-b882-354d8d89c2af,adore,2020-09-05 08:10:54,photo,science,positive,72
+b8368fca-8fe3-4768-beed-5056cff63c23,adore,2020-09-28 16:41:19,audio,technology,positive,72
+29d7781c-9302-4269-91f3-c23afb33467a,worried,2020-08-29 07:24:05,video,public speaking,negative,12
+1517abf6-67ed-47e1-9b9b-7e79a23a4d22,hate,2020-08-15 20:17:58,photo,education,negative,5
+4df372b3-ed9d-41ef-b33d-b576ec383dfc,adore,2021-05-31 23:06:03,audio,dogs,positive,72
+93081b1a-4446-438a-a0d7-fbcedc3c992d,like,2020-12-21 16:55:29,gif,soccer,positive,50
+f361cc99-64f0-4a7c-ad49-945ff01abaa6,disgust,2020-08-24 20:16:33,photo,dogs,negative,0
+fc346df4-d165-4ed0-8d43-a6896daf908e,cherish,2021-01-06 03:42:26,video,public speaking,positive,70
+aa6c9668-7455-4a4c-9915-f7d4cb56c8c6,intrigued,2020-10-02 02:55:28,photo,animals,positive,45
+64b9d086-2fd4-46d0-a19d-848572029de1,interested,2021-06-07 08:16:17,audio,healthy eating,positive,30
+def0559c-73c2-48f9-b85d-0c807659207f,heart,2021-06-08 18:31:00,audio,animals,positive,60
+362bdbf7-5b75-4ae5-8f37-79ef06b6e8e8,want,2021-06-10 02:48:22,gif,technology,positive,70
+77b49477-2f3c-455a-b8f1-09ec2e553174,interested,2020-11-24 16:31:21,video,cooking,positive,30
+1413f582-4261-4037-93bd-7356b0e9e017,peeking,2021-04-05 04:34:41,photo,veganism,neutral,35
+d4813cf8-87d5-421e-81f7-c5d43c25c62a,indifferent,2021-02-22 19:52:52,gif,technology,neutral,20
+b4871080-6bb7-4056-82a9-d8015d7b76e8,dislike,2020-06-30 00:15:41,gif,education,negative,10
+b4d8b8ed-d538-49d2-a1cb-25548045bcf1,intrigued,2020-12-02 16:46:07,video,healthy eating,positive,45
+9522ddea-8e07-4a2a-a001-25e4a534b8f6,interested,2021-06-08 02:16:42,gif,technology,positive,30
+8477eb49-08fd-44c3-a238-a13ee8cc5be8,love,2021-05-19 04:47:13,audio,food,positive,65
+b85e1b0d-1018-4a65-a709-4ac5323e06d9,heart,2020-12-14 00:37:20,video,fitness,positive,60
+d826807d-be79-402e-a55a-baf08df8212d,indifferent,2020-11-05 01:55:21,gif,science,neutral,20
+fbd8f70d-d62d-42e8-9508-9f5815ab578c,cherish,2021-04-11 13:00:37,video,education,positive,70
+6dbd153c-5b69-4ffb-a869-6285fb0c764d,love,2020-09-30 16:15:43,audio,technology,positive,65
+9108109e-c521-4528-9d90-4c804cbb866d,intrigued,2021-02-02 07:12:47,audio,veganism,positive,45
+fea9077f-2fe7-43bd-aaef-dc2619988d94,interested,2020-08-16 07:08:35,photo,culture,positive,30
+4b00c81e-66dd-45bd-9fb5-a9d2b37b62bf,worried,2021-04-11 04:39:03,photo,animals,negative,12
+88cbf75c-79f0-42cb-8733-af670f39d6e0,worried,2020-09-20 09:57:48,audio,animals,negative,12
+58e8f463-aee3-46bb-81bb-a49ed8de8b04,scared,2020-10-08 01:34:45,gif,technology,negative,15
+218838d8-52f4-4608-a1ba-d8988cc3d029,want,2020-09-30 23:36:48,video,food,positive,70
+81d2e41e-39c2-41da-bea4-a6b46daa3f6f,worried,2021-05-12 00:26:21,video,science,negative,12
+197dafda-42bd-4a0c-93b1-2ec8bb0214f6,disgust,2020-11-07 21:41:28,audio,travel,negative,0
+d288a4cb-6361-4d4b-925f-a0bf2e3350ec,want,2020-11-23 13:19:18,gif,technology,positive,70
+ac63258d-9d7d-4167-934e-48b3f3c43fa9,disgust,2021-03-29 10:33:11,audio,tennis,negative,0
+96d90aa6-a75b-4a75-9565-45f6cc8c9e98,want,2021-03-12 06:56:57,video,public speaking,positive,70
+d200b97e-f661-4502-80d1-1e458816d558,scared,2021-06-03 13:39:34,audio,science,negative,15
+7f9423ac-89b4-4a9a-9747-76e8dd533e81,peeking,2020-11-15 17:15:11,video,education,neutral,35
+6b09861c-712e-46e6-a2a5-72e4b3878767,worried,2021-04-05 08:46:43,photo,studying,negative,12
+4c009116-c94a-4633-83fb-956565358565,worried,2020-08-22 20:28:28,photo,soccer,negative,12
+34cd13f5-5fa9-45fe-ad8e-0135b67b558d,intrigued,2020-12-04 01:48:17,photo,tennis,positive,45
+763560f8-e3c4-4dec-a40c-411c22d05c7b,love,2020-06-29 20:55:23,photo,food,positive,65
+21bc508c-dd96-4fb1-b8a1-a92bef9fa666,indifferent,2021-05-28 02:46:33,photo,animals,neutral,20
+5911afa4-2af5-4e7e-b6e3-e3b985597aa9,super love,2020-11-27 08:22:01,audio,dogs,positive,75
+9531f7f8-d0cc-4e42-9cbb-94d93692653f,interested,2021-01-14 13:56:21,photo,soccer,positive,30
+3cec7ac2-f9b6-4e4c-b392-63c59c3621f2,heart,2021-05-04 11:50:32,gif,healthy eating,positive,60
+09bb0893-a05b-49bc-95ec-1e158577bf13,cherish,2020-10-09 22:18:40,photo,healthy eating,positive,70
+c323d478-30a2-4140-a2ba-935a37b2ec10,peeking,2021-03-23 10:43:15,gif,cooking,neutral,35
+e409d5be-a02d-4688-9869-eb940fe1e133,super love,2020-07-29 13:48:43,audio,public speaking,positive,75
+bd656a40-09c1-4219-8210-e667136e3734,disgust,2020-11-30 13:57:48,gif,culture,negative,0
+28fbf4cf-c354-418c-8672-b7f2fee75b00,scared,2021-04-20 00:38:33,photo,culture,negative,15
+afe1fed5-5639-45c7-89f8-ce9d1078c910,disgust,2020-12-31 21:38:03,audio,cooking,negative,0
+af6c5966-dfe7-460b-9853-62ed9f18aed4,cherish,2020-07-21 03:32:58,photo,technology,positive,70
+5ecad91d-3e8f-4a9e-9473-c3db5f2ab72f,adore,2020-07-07 18:38:40,audio,public speaking,positive,72
+2b7f2d2b-2a0b-4d33-ada9-ee9629742dff,scared,2021-02-26 06:56:52,photo,healthy eating,negative,15
+57528f91-7b0d-4120-acaf-82ee87f6df7d,adore,2020-10-20 12:35:54,video,education,positive,72
+a82b8250-08aa-47a5-97c4-19f30f236179,interested,2020-11-10 15:32:24,audio,culture,positive,30
+4e7535a7-4547-4da5-952e-607442ebed79,love,2020-12-05 14:40:59,gif,dogs,positive,65
+5444a751-c58b-456a-9fc9-1e4f292f2920,peeking,2021-06-10 02:30:17,gif,cooking,neutral,35
+4c598198-bd8b-4b86-8440-b8ecba62abe7,want,2021-06-04 23:46:03,photo,technology,positive,70
+1157961e-120e-4b2d-8fb2-705433ed9918,heart,2020-08-05 06:08:07,video,veganism,positive,60
+e0c5ae74-b379-4d34-a7ae-824daea8d682,disgust,2021-05-20 21:47:45,audio,soccer,negative,0
+1f0ed2b8-8531-416f-b694-a40a63f378a0,indifferent,2020-06-24 18:26:27,photo,animals,neutral,20
+65304022-f925-48f0-9dfc-436578f22c77,disgust,2021-02-21 14:41:41,audio,soccer,negative,0
+754eb96d-65d0-416b-aec4-4ba35836157d,super love,2020-07-14 19:44:25,gif,tennis,positive,75
+c0ea9b69-639e-42fe-8aa5-67f46036a17c,heart,2021-01-11 14:19:06,photo,animals,positive,60
+476e3ce0-3291-4c77-b3a3-deabee114efc,like,2020-09-24 09:13:24,audio,healthy eating,positive,50
+83d08b29-6cdc-436c-89a6-20c3d60f7e73,indifferent,2021-05-24 09:36:13,gif,soccer,neutral,20
+ae909545-786e-4089-9ef3-61c3c9fd3efd,super love,2020-11-04 03:53:29,video,education,positive,75
+f5068d8a-d4ba-49ee-8f30-716c1ec57e04,love,2020-12-11 10:41:16,gif,tennis,positive,65
+8de4028d-9af3-4dc0-a4d6-4d9a56eae3c5,interested,2020-07-24 23:54:39,audio,technology,positive,30
+b9bfb48f-a6b6-4c15-869a-1acceea04fca,hate,2021-05-08 09:37:49,video,soccer,negative,5
+3ac5929e-9d68-4ec5-ba6f-a018d3d4da41,love,2021-04-19 22:43:04,video,tennis,positive,65
+674507f9-c555-4876-89c7-c06b6db561c0,worried,2021-04-28 01:20:43,audio,animals,negative,12
+e6193423-0d30-4439-884a-ea22fea68522,love,2020-11-19 12:10:11,video,dogs,positive,65
+dd7069e3-d0ad-4599-b159-032267fd5008,peeking,2021-02-02 09:27:20,photo,public speaking,neutral,35
+732e236f-f063-42b6-b5c1-24938385a126,adore,2020-10-08 04:10:26,audio,education,positive,72
+aeff2a7a-2cc8-407a-8557-fa4e96b2425a,scared,2020-09-12 13:28:17,photo,tennis,negative,15
+6fd589e8-53ab-4345-896a-f428a92fcbe6,intrigued,2020-10-18 16:06:40,video,education,positive,45
+1c77e474-0cc6-40ac-b48b-cbc511bffc77,cherish,2021-02-17 08:41:13,video,healthy eating,positive,70
+bcd3702f-c27e-48ce-889b-63f765f498ef,hate,2021-01-05 21:51:17,gif,education,negative,5
+10baeb43-5bb2-49df-9644-f91a3c77725a,cherish,2020-12-24 22:24:22,photo,food,positive,70
+f24f469f-53f1-4901-b6c5-18827ae0a103,scared,2021-01-23 04:01:30,photo,culture,negative,15
+2ea5611f-f6e0-4696-9153-cda8d2b9a2a3,adore,2021-04-02 10:02:04,photo,technology,positive,72
+06a70268-f59a-44b4-8ccc-6c8e6625a491,super love,2021-05-01 04:49:29,video,tennis,positive,75
+7f5299bf-ae57-4c01-a84c-f0c6bc7a5b5f,adore,2021-03-16 11:23:11,audio,animals,positive,72
+ec202582-a5b2-4ea2-992c-8a1ca8b705d0,intrigued,2020-09-02 02:42:25,photo,food,positive,45
+d70f66c4-627a-4416-b1ad-51b5ccc8cf1d,want,2020-11-15 18:14:09,gif,healthy eating,positive,70
+ed00f2a0-56a1-41f9-abad-bdcec9c0f610,super love,2021-02-28 01:57:27,video,public speaking,positive,75
+b3562ae0-929b-46a5-8989-89e4ac3d1f7c,intrigued,2020-10-07 01:18:28,photo,public speaking,positive,45
+2e84726a-e69f-44e8-ac0f-c4a31516e342,indifferent,2020-08-17 18:52:04,video,dogs,neutral,20
+dd5bd710-bb81-464e-a798-0291b385e883,love,2021-01-02 12:40:15,photo,healthy eating,positive,65
+a38cf15e-6a1d-42e8-bee7-0eeb456c700b,intrigued,2020-11-09 05:45:10,video,travel,positive,45
+4d510edc-7c08-4524-a14d-f36f3b710020,like,2021-02-14 01:02:09,gif,fitness,positive,50
+4fd0ef9a-008d-4b61-9a78-4b0257281140,scared,2020-07-31 23:04:56,audio,technology,negative,15
+6796d3e9-ee98-47cb-b057-90cfaf6ebcbb,heart,2021-06-15 19:39:30,audio,technology,positive,60
+76898916-4024-4c32-909b-dd240879d76a,hate,2021-01-20 23:47:28,gif,animals,negative,5
+8204e4bd-c544-4a18-ac0d-6f5289957cdf,like,2020-12-23 12:50:49,photo,dogs,positive,50
+301cfd14-3e4f-4058-b253-c591ef150888,cherish,2021-05-26 20:53:59,audio,veganism,positive,70
+56a3156c-41e0-4b35-8e6d-947961b3af5b,dislike,2021-02-27 12:00:00,photo,fitness,negative,10
+fd060448-7b3e-4626-b3ca-44bfe764e26f,dislike,2021-02-06 16:06:40,photo,cooking,negative,10
+60223ac7-2fa4-4bba-8156-1d90b367e21a,scared,2020-06-27 08:02:39,photo,public speaking,negative,15
+74c85e37-5017-462e-bee2-2769db7a17c1,indifferent,2021-04-09 03:01:48,photo,healthy eating,neutral,20
+b400ea0c-43f0-4307-a3b2-78e5784d69be,heart,2020-08-13 02:54:30,audio,fitness,positive,60
+79f1b9b4-b21b-4abd-802a-811540cbc845,super love,2021-02-05 05:32:34,audio,travel,positive,75
+af373863-f9df-4330-b423-d2b802b30d6e,cherish,2021-02-09 05:37:15,video,food,positive,70
+6380e982-07ac-4d21-bd23-cec0bcfa1ff9,super love,2021-01-08 02:20:04,photo,soccer,positive,75
+b13bec8c-4469-4cc8-8650-7057eb95d3ee,hate,2020-07-21 05:09:08,gif,travel,negative,5
+43450a12-1e4c-4a17-a846-9d8768984051,peeking,2020-08-25 18:25:26,video,animals,neutral,35
+7913b30d-19fd-4900-8a68-ce141192b3ec,intrigued,2021-03-08 19:39:15,audio,cooking,positive,45
+c5e2d733-94b9-4259-85e8-6fb7a95a1887,scared,2020-08-26 13:16:50,audio,tennis,negative,15
+e3cd0095-28c9-4f10-b04c-77b4e38bb85a,intrigued,2020-10-20 06:55:47,gif,technology,positive,45
+b7983f99-c4c7-455b-a120-b144101449ad,want,2021-01-09 06:20:36,audio,dogs,positive,70
+f2f7e343-5e8f-4ef3-b693-4261971c2ee7,love,2020-10-03 16:48:49,gif,tennis,positive,65
+a1d33ddd-1a6c-4dc2-afe1-bcf632cf0ce4,peeking,2020-12-01 12:05:08,video,food,neutral,35
+c82d3a99-3d11-407d-9648-9f9560f40d7f,adore,2021-02-27 21:19:39,photo,travel,positive,72
+cad48d10-3ad3-4bf0-bee5-330783eb8532,disgust,2021-05-24 10:23:51,photo,soccer,negative,0
+52995b7c-6f2d-469c-a331-596323e6ad67,super love,2021-01-10 15:02:47,audio,science,positive,75
+888660b0-7dd8-4983-858a-101cd03d392b,indifferent,2021-06-01 04:46:20,video,science,neutral,20
+14ebfb59-8d36-4857-b8e2-b6d2fb3b243d,worried,2021-03-09 23:45:28,gif,studying,negative,12
+6ccf94b4-f549-4d17-a1d0-3bf7656bce81,dislike,2021-02-15 14:09:53,video,animals,negative,10
+145ed259-6151-4021-bc13-a0b5482e5bd8,dislike,2020-11-28 23:59:52,photo,technology,negative,10
+19f998c4-270b-489d-bea6-ae161d301923,cherish,2020-10-02 10:09:18,gif,travel,positive,70
+2073855c-fab2-41ee-ad15-d4269b2ac4bd,want,2021-01-10 01:52:12,audio,education,positive,70
+3af75639-bdaf-4461-b630-d212e7fb4f30,love,2021-05-29 13:17:29,audio,education,positive,65
+12a7140a-6fe7-41e2-b2b4-75d913fcca1e,cherish,2020-07-29 14:02:28,gif,studying,positive,70
+73fde78d-7908-4406-8377-747873ecd29a,worried,2020-12-12 08:06:36,video,studying,negative,12
+d6c98c19-5733-47fd-9b03-e4574fbe4220,heart,2021-04-24 06:42:45,photo,travel,positive,60
+0ce7392d-5c20-4ffa-a42f-767f51e9b466,super love,2020-07-05 04:21:50,gif,travel,positive,75
+0646f8f9-e558-4893-bb28-2228eb0c9323,cherish,2020-11-10 04:00:23,audio,fitness,positive,70
+ed28489e-90b0-4daa-a1fa-22170cdc89d5,heart,2020-08-10 02:31:56,audio,veganism,positive,60
+6ddba21a-cc51-4bbd-b38d-02df5cec5f68,intrigued,2020-08-10 16:44:14,audio,culture,positive,45
+d90a34f1-60ed-4a79-b7bf-fd22efa12e4c,dislike,2020-08-10 20:30:42,photo,travel,negative,10
+7286f9d2-7c83-4c7b-bc01-6f56eb0235de,hate,2021-04-19 06:41:26,video,travel,negative,5
+69ce055c-e0bd-46c5-b856-bf2254d1c490,intrigued,2021-02-19 07:43:05,gif,healthy eating,positive,45
+2d7084fb-b457-4813-829f-73911025eeaa,scared,2021-03-07 11:31:50,gif,cooking,negative,15
+ab07c995-56e6-462c-9325-bd4a2ffd8c39,intrigued,2021-05-07 08:50:04,gif,tennis,positive,45
+8a5dddcf-dda6-4715-a804-10d98cbf8fdc,hate,2021-04-23 15:08:22,video,education,negative,5
+360df5a1-8118-4972-a5d0-27033dba1f1c,interested,2020-07-21 12:31:30,video,fitness,positive,30
+985f4b4f-de40-4a4e-a090-01e100be42e9,want,2021-04-23 09:04:43,gif,travel,positive,70
+585c17a5-df96-4a6d-b144-a499e0469546,disgust,2020-10-25 04:18:44,gif,healthy eating,negative,0
+8ed94c6d-bcb3-460c-aa5f-69199d2495e5,indifferent,2021-02-04 00:00:31,photo,soccer,neutral,20
+2c5a6a94-7291-409b-ba32-ba34c5ad7c0e,dislike,2021-04-05 05:44:57,photo,fitness,negative,10
+01aff5ec-2aa8-412e-99ec-526f0f9a6d5e,intrigued,2021-04-18 05:49:35,video,fitness,positive,45
+853e37de-5ba2-447a-a0dd-a1b4407e5ec4,heart,2021-05-07 18:14:54,photo,travel,positive,60
+41e6d775-b5ca-4d6c-8f50-66ac3c92a300,super love,2021-01-23 19:20:22,photo,veganism,positive,75
+a8e72f75-bebc-42b4-a3c7-deb8a2412878,heart,2020-09-22 04:15:25,audio,technology,positive,60
+de61a447-bbf0-477e-9743-71031d59bbf8,cherish,2020-12-08 02:00:53,gif,studying,positive,70
+bceb7f2d-6afe-45fc-88b1-4d4c8f597cf8,hate,2021-02-15 00:22:21,gif,technology,negative,5
+6ee96d2e-a110-4e43-ab89-b5577b7b3dab,interested,2020-11-18 10:11:30,gif,culture,positive,30
+b014a42b-c469-4c26-b4aa-256f4d3d5072,adore,2020-09-20 12:39:20,gif,culture,positive,72
+3210c7c6-e7a2-4ae3-b69b-a111b359c56d,super love,2020-09-03 02:40:28,video,veganism,positive,75
+9bc09268-79e8-4402-ba22-ffd1e45fa66d,disgust,2021-02-11 07:26:46,gif,travel,negative,0
+12b89b4e-6770-489a-b7c3-812de3d61f20,dislike,2020-08-17 15:44:27,photo,education,negative,10
+f7b57d86-228b-4777-be51-dde8702f7b4c,super love,2020-10-08 09:30:55,gif,cooking,positive,75
+bc604b62-adbc-4c93-a2ae-602160714d1c,worried,2021-01-13 22:12:14,photo,cooking,negative,12
+e4487829-621f-4265-8665-42a4c0610745,scared,2021-06-10 21:41:32,audio,food,negative,15
+3ea56656-03ef-4199-b253-b5241ee21eb7,disgust,2021-01-19 13:38:26,audio,veganism,negative,0
+55d5d3f9-566c-4fcc-b24e-02ca826cce58,dislike,2021-04-13 19:40:44,photo,science,negative,10
+27026304-2cb5-4d64-9959-9ff0328aaa03,dislike,2021-03-01 05:56:40,gif,dogs,negative,10
+d3cc1365-2267-4b4a-8a06-40065d7ae0c9,scared,2021-03-06 04:51:00,audio,public speaking,negative,15
+4b1c315b-84a8-400a-bb49-9fec7dc767d5,like,2020-11-14 05:39:37,audio,fitness,positive,50
+90418e93-aa5a-4608-866e-25464b617c9b,dislike,2020-12-06 02:46:22,audio,science,negative,10
+6a39e0b5-b1cd-4edd-bdfb-310e1a3e5910,peeking,2021-04-25 20:00:15,gif,soccer,neutral,35
+8cabe738-41cd-47e1-82e2-20972f320fb1,intrigued,2021-02-03 01:12:32,photo,public speaking,positive,45
+b2055111-9b7b-4a05-9f07-ac190a5391f0,dislike,2020-06-22 12:20:55,gif,food,negative,10
+e3bb5693-091c-47de-b4b7-78e28b5fbb98,worried,2020-09-05 07:49:06,photo,education,negative,12
+d95a7e4c-d504-4cba-9bcc-4c4b1bfb06d0,peeking,2021-01-24 23:26:24,audio,technology,neutral,35
+36bd1711-92f6-4240-8ac5-21df845abe86,heart,2020-08-03 09:58:50,gif,technology,positive,60
+2c9b8ec2-7eb1-47fd-891d-a5b23c019839,cherish,2020-08-24 01:22:06,audio,culture,positive,70
+9f3fd778-5ce2-43e5-bc5e-2af9b6b12fc8,cherish,2020-06-23 16:59:29,video,travel,positive,70
+e1b4a0fe-5069-4765-8170-ef44ab8f102c,hate,2020-09-01 06:15:28,photo,tennis,negative,5
+7c4f0389-01a5-4ea8-a643-83414441fe81,disgust,2020-09-22 00:22:42,video,tennis,negative,0
+584211e8-3ca9-41a7-aeea-1d308bda53fd,disgust,2020-12-15 22:15:58,photo,studying,negative,0
+d05568a5-a7bf-4235-9b63-1e2233adf9a8,peeking,2020-08-07 00:24:00,photo,technology,neutral,35
+596a3ffe-1e2a-4999-bf8d-c8f4a8974343,hate,2021-01-20 10:50:43,video,animals,negative,5
+f8119ef8-1f00-49e4-b468-86dd64042053,want,2021-04-29 09:40:39,photo,culture,positive,70
+b467bf5d-1bcd-4c52-a667-6b88269ad02a,scared,2021-06-02 17:40:36,video,dogs,negative,15
+632875ea-56de-4160-a76c-d1b3ae9e566f,heart,2021-06-06 05:30:32,gif,public speaking,positive,60
+24231380-c9a7-4b07-bd51-c9bd5c49cb7c,like,2020-11-26 15:12:01,photo,cooking,positive,50
+f0eb58d4-5e4e-4dd6-bbd9-853492b2e45a,intrigued,2020-09-18 14:36:49,audio,tennis,positive,45
+1c6be4a3-85ae-48da-81ff-44262690af51,cherish,2021-01-11 10:12:39,audio,education,positive,70
+a5b45b7b-dec4-4c26-9323-a3d9a8cb9d5e,indifferent,2020-09-27 09:40:01,video,animals,neutral,20
+6054518c-4c28-4d65-8ebe-3b4f56108f29,interested,2020-06-21 21:07:54,gif,healthy eating,positive,30
+73ef953a-5bda-4532-bcd5-85a2cb61b803,worried,2021-01-19 00:26:17,photo,studying,negative,12
+a727ed7f-5684-4536-b543-8e8fc93f40b1,want,2021-03-20 10:29:02,video,cooking,positive,70
+8fa19e64-72ab-4cff-bc92-b8a057395043,disgust,2021-06-12 07:18:42,photo,food,negative,0
+634a05ab-0751-45fa-a1b4-b4a9b8342f61,like,2021-05-22 16:09:33,video,travel,positive,50
+fa337cb5-179a-4f92-a085-e6b3c60e2854,interested,2020-11-22 22:40:31,audio,food,positive,30
+46219a74-c2db-4479-a96a-d3ee54d1ea7f,peeking,2020-10-28 16:26:27,gif,soccer,neutral,35
+1cd59d79-a2ca-4a99-92aa-2775117c4589,scared,2020-08-18 00:50:44,audio,science,negative,15
+d374af60-1487-4ee4-ac6a-fcc59ae6ea45,want,2021-01-09 00:56:31,photo,dogs,positive,70
+f6fed2d9-0e25-48b8-bb76-f7cb0667553a,worried,2021-04-13 23:40:59,audio,soccer,negative,12
+12c49449-a896-48cb-a33b-47e8952f23a7,adore,2021-01-04 05:33:58,audio,fitness,positive,72
+e949f4c9-81b0-44dd-8a69-0c233134bccd,disgust,2020-08-17 01:53:55,audio,culture,negative,0
+c2640cbb-d9d4-424e-9ef5-a4c972ea2f09,hate,2020-12-05 08:17:38,photo,travel,negative,5
+1735c0ee-4834-4428-8e6c-014e8fd44bc5,cherish,2020-11-24 20:59:36,video,technology,positive,70
+fdca8d15-966b-4825-8133-1fafc5c1f9fc,like,2020-12-03 13:36:29,video,dogs,positive,50
+e1da66ba-31f3-46af-aaa3-a183e3e7eb56,cherish,2020-12-04 23:58:31,gif,veganism,positive,70
+116451da-4b67-4bcb-b43b-b19a914e0d36,hate,2020-12-02 04:28:55,video,food,negative,5
+c39f187c-932b-4403-ba6f-e081b235dbd4,heart,2020-09-13 20:10:10,video,travel,positive,60
+fc462e49-0f19-4601-9f92-a31c9542887c,super love,2020-09-07 04:58:56,gif,education,positive,75
+48fd48c7-bc82-414e-8941-aa2090183aec,disgust,2020-07-15 01:00:41,photo,dogs,negative,0
+0fbdd670-a266-4805-9bbc-c5ad73cf97b3,worried,2020-07-26 21:10:02,photo,technology,negative,12
+87958932-6baf-4339-b01b-6112d9b180ed,worried,2021-02-03 06:00:43,audio,culture,negative,12
+2f246c65-25f0-4144-b3f1-a180865b1766,hate,2021-06-15 03:14:43,video,technology,negative,5
+5403a041-447d-42c1-a9f2-3c525449b3b8,intrigued,2021-01-28 21:47:55,video,public speaking,positive,45
+e57d3bd7-da38-492d-a87d-3a643f61fd9c,super love,2021-06-07 13:45:44,audio,education,positive,75
+1d8fbfdc-3c0f-4fbf-ac50-f812ce9db36e,worried,2021-04-25 15:20:51,video,food,negative,12
+b0cad7dc-6333-4160-8e7f-425182eb4e29,interested,2021-03-20 14:17:44,gif,dogs,positive,30
+70047f87-af62-4674-bf30-a03c9ee9db09,super love,2020-12-03 07:56:21,video,food,positive,75
+0f254679-b92b-4a2c-84b0-ba6f84f59a33,like,2021-03-23 07:18:21,video,veganism,positive,50
+26a2a058-3806-42ef-b1e4-24c6b64f9bdb,super love,2020-10-15 08:55:48,audio,healthy eating,positive,75
+b62831cc-7447-465b-9c58-1fc659b17310,want,2021-01-19 06:40:06,audio,animals,positive,70
+2e866dc0-7c14-4e2a-9edb-9ccc1d1bd048,heart,2020-12-29 05:21:07,photo,culture,positive,60
+f9c0a47d-c96d-4457-a1be-aa7642ea38c1,heart,2021-01-04 14:42:05,photo,culture,positive,60
+b3c0379a-b71a-4f6f-9fde-ceb636739633,heart,2020-08-27 18:29:19,video,culture,positive,60
+02fca291-d239-4303-8725-1c114be2f32a,hate,2020-12-12 09:16:50,audio,dogs,negative,5
+af8ab833-e28c-4451-b7f6-83f3953d556b,disgust,2021-01-29 20:30:35,photo,dogs,negative,0
+00d0cdf9-5919-4102-bf84-ebde253c3cd2,adore,2020-09-25 19:56:00,audio,healthy eating,positive,72
+7cb131be-2e2c-4c28-9e88-66cec9d34e4f,scared,2020-06-22 13:34:08,photo,technology,negative,15
+87bf6cd4-f955-418b-aa84-9bfffcb4abeb,adore,2021-02-16 09:27:09,gif,healthy eating,positive,72
+80f6df7f-517f-4f0e-b6cb-004d61ad2bc8,peeking,2021-01-25 02:20:59,photo,animals,neutral,35
+072fb6c2-1505-408a-a35d-f0c4ffaf2696,love,2020-08-22 13:39:45,photo,fitness,positive,65
+baadf2d9-ab5b-458d-a3cf-37c39a69be50,adore,2021-05-20 23:04:52,gif,technology,positive,72
+c2373565-f5f1-415f-9786-49ff558c7739,indifferent,2021-05-25 04:38:47,gif,soccer,neutral,20
+cc253c91-6df6-4de5-ab4e-6d1127620fd6,peeking,2021-03-01 09:18:08,photo,science,neutral,35
+b0fbee80-d1fe-4be5-9a32-47f61e395669,heart,2020-11-07 08:22:24,photo,dogs,positive,60
+327dd631-2d6b-4acb-b0a7-804cda5009b2,cherish,2020-10-02 00:55:10,photo,cooking,positive,70
+0c6e8e2a-7692-4490-b545-f76b0d06697a,cherish,2020-06-23 14:00:06,photo,animals,positive,70
+9476189c-8342-489e-985c-81de9320f527,indifferent,2020-09-08 06:35:08,audio,soccer,neutral,20
+d539c60f-9967-44b0-a11e-26d5dfa43884,intrigued,2020-11-20 16:03:15,gif,fitness,positive,45
+410c757b-918f-4c71-892b-2e6e7697bd86,indifferent,2020-12-27 11:26:58,video,travel,neutral,20
+51577f6a-e29e-4ed2-93eb-e7bd4eda800a,scared,2020-09-08 02:38:41,photo,dogs,negative,15
+a52f38d8-1c2e-4adc-b451-01c49f650195,intrigued,2020-11-13 08:13:40,gif,healthy eating,positive,45
+140a5163-66d8-4a11-8d4e-a670483bb852,love,2021-03-03 20:09:20,photo,science,positive,65
+436536b2-6d05-4e20-af6e-cade48b4bcf9,disgust,2020-11-21 13:34:47,audio,cooking,negative,0
+9c55917b-055c-4ae0-b044-cce9fb89bfa9,worried,2021-04-03 21:13:13,video,soccer,negative,12
+5e813176-850f-4791-a750-4961429c2458,adore,2021-05-15 06:56:33,gif,soccer,positive,72
+efda0319-e547-484a-84b5-c5041a57502c,hate,2021-03-02 08:41:57,photo,dogs,negative,5
+a881e5c8-4f16-4823-85a8-c595fe220385,interested,2021-03-24 13:14:17,video,soccer,positive,30
+520450a4-c852-4a4e-9383-30657dd07533,peeking,2020-10-27 12:39:49,photo,public speaking,neutral,35
+15dc9c91-11a7-45d6-ba68-107e6d4dcf7b,heart,2021-03-30 20:21:23,audio,travel,positive,60
+c2fbcf27-369b-4385-925a-ca2eca1403c1,super love,2020-10-13 20:12:22,audio,culture,positive,75
+10683ab8-914b-43ae-ad2d-b2fd6a48dc33,cherish,2021-05-24 07:36:44,audio,soccer,positive,70
+431c5aac-aa89-41e0-99e0-92d237ca9408,dislike,2020-11-09 23:04:09,gif,technology,negative,10
+d0f8e229-c57e-460c-a08f-59672c606151,adore,2021-06-02 16:52:28,gif,soccer,positive,72
+6a30164f-28c3-4d10-b928-66585a85cbb5,like,2021-06-11 01:42:16,gif,soccer,positive,50
+2387f014-e650-4df6-8daf-a9d863c10c7e,disgust,2021-05-15 18:56:25,photo,food,negative,0
+bead7e6d-0e1f-489d-81b2-d006a67b5b33,hate,2021-04-01 22:48:49,gif,science,negative,5
+9c8be342-6cff-4d80-bf94-fd0fd8ccd845,like,2020-12-07 12:21:21,video,dogs,positive,50
+273cb565-8c43-428e-bd2b-46ae0c2ae046,love,2021-05-24 13:39:49,gif,animals,positive,65
+5b71c62f-2c89-4d19-991f-65fedd0b52fd,indifferent,2020-11-30 17:39:15,video,education,neutral,20
+d624685f-99a7-4aee-902b-283f5cf85ada,scared,2021-04-01 11:06:02,photo,studying,negative,15
+965a00aa-3037-4ea6-b6be-26f6fbee029e,want,2020-06-25 22:32:13,audio,public speaking,positive,70
+79dfc9a4-42c0-42a5-abe4-2b5d3b8a05ab,cherish,2020-12-29 04:30:51,gif,culture,positive,70
+84a81261-6334-4ba5-978d-26a45d28a44f,want,2021-01-02 12:07:14,audio,animals,positive,70
+595037a5-5e9a-42f6-8f50-a55827dc41ac,like,2021-02-01 22:55:09,video,animals,positive,50
+22cdf77b-00c8-41c3-ad59-333c3e751e2c,worried,2021-06-07 21:33:52,audio,fitness,negative,12
+28b8c278-a125-4295-98dd-5f8d45c3200b,cherish,2020-09-29 08:08:17,photo,tennis,positive,70
+e1792fe6-28e0-49fc-8b01-0e027461d8b5,worried,2020-07-18 11:19:16,gif,technology,negative,12
+0c91753a-0bb4-4b77-a919-96c2f998ad91,love,2021-02-24 02:06:58,gif,fitness,positive,65
+fd0a3090-6b89-4c4e-9192-1aa4db213a3e,hate,2020-11-24 04:09:45,gif,cooking,negative,5
+9a25d0c6-1134-41d2-abc4-e893c41363bc,intrigued,2021-02-01 13:50:13,video,science,positive,45
+2f5dd79a-8884-4086-ab6f-00b3bea9d366,peeking,2020-09-05 00:51:12,photo,cooking,neutral,35
+5a0b2edf-78dc-4c4f-ada9-464523b52f12,indifferent,2021-01-16 12:02:41,audio,fitness,neutral,20
+37ff78d3-d31c-4bde-95c6-83390749a367,love,2021-05-15 03:53:12,video,fitness,positive,65
+d86a1ec9-a883-44f8-b1ad-2a182c741fe7,love,2021-05-11 02:50:57,gif,public speaking,positive,65
+dfaed54d-123d-46c6-8a86-dd11c30e4ca3,intrigued,2020-06-19 08:23:33,video,fitness,positive,45
+cbf66fdd-cd86-4517-8081-181e45f13823,cherish,2021-03-01 12:51:53,photo,science,positive,70
+18cb1ce7-fb66-4a56-8042-e38c9593ade1,interested,2021-03-01 02:47:25,photo,animals,positive,30
+d0c1d7f4-7735-49a9-ab6b-2cdb2338a609,want,2020-08-20 20:02:12,gif,travel,positive,70
+f3e8d168-6fb9-48b9-8347-b35595162c1d,worried,2020-08-08 18:25:36,video,soccer,negative,12
+781383dc-f5ff-4d62-87df-c3557f5eced9,peeking,2020-08-22 01:28:37,audio,technology,neutral,35
+efffd88f-7ddb-4579-bbf2-e3d248c122b4,intrigued,2020-11-17 00:03:12,video,tennis,positive,45
+f9e9544e-16b5-416f-9aec-80a723d1e64c,intrigued,2021-04-26 08:53:27,video,culture,positive,45
+43830153-4c89-4502-a7f7-bedbc08cf903,hate,2020-07-22 22:52:10,audio,fitness,negative,5
+43ea5509-7ff1-4150-b263-d5eac9d6f69f,want,2020-07-26 04:13:16,audio,dogs,positive,70
+0be329af-19d6-4a34-8bc1-f4391e9877dd,indifferent,2020-07-08 10:45:45,video,dogs,neutral,20
+99fcc8a6-550f-47a1-b312-aba8a031f6c7,heart,2021-02-26 15:33:26,video,travel,positive,60
+7cbe1ddf-f81e-4597-be11-420b4dd815dd,peeking,2021-04-27 09:03:46,gif,technology,neutral,35
+aafa015b-7447-421e-91bb-b64720402d9e,disgust,2020-09-12 03:53:26,video,cooking,negative,0
+72167d71-578d-428f-af6d-5a8a92e677af,adore,2020-10-21 02:58:36,photo,animals,positive,72
+b0dd04df-83a1-470f-80ad-bb173a5e44bc,hate,2020-10-16 16:11:07,photo,cooking,negative,5
+5f87a730-589d-48fb-ab94-e69274d7b89e,want,2021-03-10 14:12:53,photo,food,positive,70
+e221de96-8536-4782-8281-f9cda62f3c81,like,2021-01-11 04:59:28,photo,food,positive,50
+74622897-59cb-4cf4-8ffe-3a25aeebc234,like,2020-07-14 12:57:40,gif,fitness,positive,50
+09f5578e-6cf1-4e80-b102-7aae7b9d5d67,adore,2020-11-03 23:22:25,gif,studying,positive,72
+f86dae91-1330-45cc-8353-32839ea82ba6,love,2020-06-26 13:14:17,photo,tennis,positive,65
+bfeb6117-9179-469d-9ea8-8f41a251a5fc,cherish,2020-09-21 16:05:16,video,fitness,positive,70
+1287b5c5-604b-462b-bf77-e64a8e89739e,intrigued,2020-12-24 07:34:44,photo,studying,positive,45
+f0a10ef0-89c7-46b0-828a-e9eec53a8cbe,indifferent,2021-05-23 11:26:56,audio,education,neutral,20
+a6cace19-96eb-40b3-b6fb-2a1a4e444dde,intrigued,2020-10-31 16:29:46,photo,cooking,positive,45
+1b7d1f70-21dd-483b-b395-e15f4c2368f1,intrigued,2021-02-15 19:30:44,photo,animals,positive,45
+27e2cea3-b408-4e66-801b-29fdf7c03b05,interested,2021-03-06 17:29:04,photo,travel,positive,30
+c6616e7c-f815-46d0-9b1d-d7ea977f5d32,want,2021-03-03 12:59:19,audio,technology,positive,70
+846b8dcf-d2d2-45e7-816d-7dd62d4fbbe4,dislike,2020-11-26 03:55:18,audio,culture,negative,10
+3fc1f583-ce7e-4cfe-b891-d16976953fda,worried,2020-08-05 04:00:17,gif,science,negative,12
+5d3d5107-2404-4fb8-a9b6-3c8428492f64,heart,2020-08-01 01:03:15,video,studying,positive,60
+46c69019-89b5-4a13-9b8a-2942ca22837f,love,2020-08-26 03:47:45,video,science,positive,65
+2c043e74-63e2-472b-a31a-6ea060febfc1,intrigued,2020-12-10 09:01:44,gif,education,positive,45
+6b2db46f-f733-4b56-af09-0ed7bb232ed4,interested,2020-09-09 21:15:06,audio,animals,positive,30
+461cb0ce-0b43-4f13-a8bd-847fc6428c6c,dislike,2021-03-08 22:15:00,photo,fitness,negative,10
+7df4b13f-c41a-4c81-88fb-213a6a96acc5,want,2021-04-13 17:15:57,audio,culture,positive,70
+7df08397-b59a-4973-8c62-fc5d4c36c08a,cherish,2021-05-23 09:19:46,gif,veganism,positive,70
+28fc1e6d-eae9-47de-af11-11ad726b2a88,scared,2021-03-04 17:38:25,photo,cooking,negative,15
+7e9865ec-7455-4b39-89f7-92e2a82d0f12,dislike,2020-08-01 03:03:27,gif,education,negative,10
+b6f447e5-0a89-468a-8ad2-fd45676170d5,heart,2021-04-01 16:02:17,photo,veganism,positive,60
+292051b5-b835-4a60-962a-bddf10da82bd,heart,2020-08-26 06:27:14,photo,technology,positive,60
+088e2e43-61a8-475f-a3e6-061f626b0f16,hate,2020-12-30 06:13:51,photo,veganism,negative,5
+bb6c0257-5d4d-4bb8-be58-4bd7ebd9c337,hate,2021-03-09 02:32:50,video,animals,negative,5
+02664d35-87cf-46a6-a80b-78fbc9ac8b2f,super love,2020-11-07 12:53:49,gif,science,positive,75
+e0cb0394-c5b2-447a-a9f4-88604a3ec283,indifferent,2020-11-25 00:15:36,audio,public speaking,neutral,20
+ec6c41c9-509e-43ff-83bb-0e5202b8e62a,indifferent,2020-11-04 17:50:55,audio,education,neutral,20
+e17bade2-3175-49eb-92f4-7f2eac74147a,indifferent,2020-11-01 14:21:14,gif,soccer,neutral,20
+3896723f-560c-4008-9635-e3ecf1e2b37c,adore,2020-12-08 05:54:56,video,cooking,positive,72
+a048f504-f428-438d-bb91-f1ad562ff5f8,want,2020-11-18 13:57:50,video,public speaking,positive,70
+9c6b0084-60ba-4e88-a0c7-ba0f61ec2c11,scared,2020-07-23 19:56:02,audio,cooking,negative,15
+ef1ed168-7433-4233-ade8-95070d70a382,interested,2021-01-25 23:13:22,audio,travel,positive,30
+bb157107-088c-45aa-8d16-5c093a7471c6,want,2020-06-27 01:29:01,photo,culture,positive,70
+45630f5a-78c1-46a1-bdc7-79cd11bb3c13,worried,2021-02-09 04:24:46,photo,travel,negative,12
+79818849-98f9-4b6b-9be8-4ed4c1ad59a5,adore,2020-08-27 01:58:23,gif,fitness,positive,72
+475541da-3402-4d0e-9df5-0da198f8fc9c,scared,2021-05-31 00:19:34,video,culture,negative,15
+dc1d4628-4edc-47c2-8da7-0b3d16ef5ddf,intrigued,2020-09-25 21:58:16,video,technology,positive,45
+17e3a8c5-ecb6-445d-8b69-f8c202d08549,love,2021-01-22 08:51:12,audio,cooking,positive,65
+df06cdab-afc8-4965-9b10-c270b0cafedf,scared,2021-03-19 06:07:53,photo,animals,negative,15
+8ec8db61-8bea-440b-88ee-f1f593eb4a7f,scared,2020-09-08 19:01:57,photo,education,negative,15
+c582f515-4d90-4ae6-9ab7-059fdbd7956c,indifferent,2021-05-30 07:44:26,audio,technology,neutral,20
+6082eb46-c239-40f5-bfcd-fb72b823ee71,super love,2020-08-03 23:51:00,video,healthy eating,positive,75
+59523d44-6113-46a5-a85b-38de2ce7bfa1,scared,2020-11-15 17:32:06,photo,travel,negative,15
+e6c8f317-c8a9-4b1d-941a-4cd5420a138b,peeking,2020-10-11 16:23:44,gif,science,neutral,35
+9c066976-30e0-405e-9973-5c4342271a70,scared,2021-01-03 00:59:04,audio,tennis,negative,15
+1934a201-0590-41af-bf40-5ddd6254d744,hate,2020-10-31 06:04:24,photo,education,negative,5
+279fdb2b-e9ca-4531-b55f-c8fe294083cd,indifferent,2021-06-10 06:48:54,video,healthy eating,neutral,20
+2297a93f-370d-47e7-8df3-3d464b3a0c0a,intrigued,2021-02-01 16:06:03,video,healthy eating,positive,45
+25290b06-ca05-43eb-8e54-e345a41ddba7,want,2021-02-17 08:05:39,photo,education,positive,70
+0411a1da-97e1-44b6-945d-06b4682ba802,super love,2021-05-10 22:13:11,audio,technology,positive,75
+ef802d01-6269-4d21-9159-f1386c75e789,dislike,2020-12-04 15:44:04,photo,technology,negative,10
+ee18c383-1e7a-4507-9e78-1061da09143a,want,2020-12-08 03:00:54,audio,education,positive,70
+ee0988ef-8656-4a63-9515-a2533b772636,indifferent,2020-12-14 10:59:21,video,travel,neutral,20
+3fe1e6e6-6d1d-43f5-9c25-7d0a1c14744d,love,2021-01-21 15:03:49,video,soccer,positive,65
+8526d7cd-bf33-4bf4-aa07-2c25c610cc74,adore,2020-10-26 16:37:29,audio,dogs,positive,72
+df2214cb-61f3-4744-86a8-7c01e501bc27,love,2021-05-22 11:34:18,audio,cooking,positive,65
+b15792cb-995f-473e-8372-5cbe88eb059b,scared,2021-04-26 05:10:15,photo,travel,negative,15
+881d8944-8eeb-4439-b40c-9396a1e31f20,super love,2021-04-02 07:26:54,photo,science,positive,75
+4b2d0fff-3b4f-43ca-a7df-c430479cb9ba,like,2020-10-25 11:30:27,video,soccer,positive,50
+fea8d77c-fd0b-4678-868f-fbae567642f3,adore,2020-12-04 04:52:49,gif,science,positive,72
+8945e374-9170-4799-b6b0-78fd9d5821a6,interested,2021-01-26 08:09:22,video,studying,positive,30
+b0782637-2604-40f7-8fc6-5e7d9ffd2255,dislike,2021-01-15 05:52:59,video,cooking,negative,10
+55f46794-426f-441b-bb60-53b5e6beebc5,heart,2020-09-18 00:58:07,photo,food,positive,60
+e61a1b04-17e4-4918-a637-ebfc59783ad0,adore,2021-02-09 07:10:13,audio,fitness,positive,72
+343362dd-20e1-4b98-ad23-e3d8d497f98e,hate,2020-08-13 02:37:12,video,travel,negative,5
+d39b0a7e-ce14-4ad4-aa9f-5aefc827f9e6,want,2021-04-16 22:15:07,photo,veganism,positive,70
+f663d05c-74ce-424b-89f2-58009b0095fb,intrigued,2021-06-01 01:15:51,audio,public speaking,positive,45
+03750ad9-8d8e-4f8c-aec6-8766c9a0184f,heart,2021-01-12 13:10:11,video,tennis,positive,60
+845fe8d4-bffc-485f-ae96-fd8fe9ea013d,heart,2020-06-24 11:47:13,audio,education,positive,60
+4c1ae4ba-078a-4720-aff0-817c7d549387,cherish,2020-10-17 17:28:50,video,cooking,positive,70
+964173f3-7019-4758-9ab9-df71585aa965,worried,2020-10-14 07:20:54,audio,veganism,negative,12
+fa60edda-2d32-42ab-905d-2f5de379c461,cherish,2020-10-08 21:22:39,photo,fitness,positive,70
+d5ec7de3-8c02-4f17-a9f0-dc8a9e64fa1a,intrigued,2020-09-12 21:36:02,video,soccer,positive,45
+964a54b7-7dc7-40b0-bd94-9898b670f9cd,love,2020-12-26 20:41:45,photo,science,positive,65
+37331f8d-4fc5-42f6-a367-e59ccde67c45,peeking,2020-10-26 12:05:55,audio,soccer,neutral,35
+8f4cea30-10e7-4806-8c01-d78ef6bcbfa8,hate,2021-05-01 07:58:01,photo,tennis,negative,5
+cba3c646-6b10-43fe-a1af-a0276815288f,cherish,2020-12-06 10:53:14,video,travel,positive,70
+80bf3ac3-e94e-44cf-81ef-345a8326802c,interested,2020-12-25 11:36:17,photo,veganism,positive,30
+6f48fe2b-7c20-4065-8ae9-7bea61275dc7,dislike,2020-07-04 03:46:05,gif,science,negative,10
+c48d7966-42f3-43a6-a0b7-0a2260ffa125,worried,2020-11-30 13:34:43,audio,culture,negative,12
+85260ec2-7b35-4266-8071-580a8b4341ca,adore,2021-02-21 23:06:07,photo,tennis,positive,72
+4bfc9824-aaeb-4695-8195-945686795b30,heart,2020-12-20 08:21:32,video,public speaking,positive,60
+a168836d-7a74-41e2-a8ae-809fa556c8a0,scared,2020-10-23 19:48:51,photo,travel,negative,15
+e1eca98c-c5fd-4fe4-825f-2d36e8bd56f1,cherish,2021-02-04 12:00:07,audio,veganism,positive,70
+ee631766-3818-4de6-897f-2355542b58e7,interested,2020-07-15 09:14:40,gif,public speaking,positive,30
+0ac85d23-c8ba-49ed-bec1-493b960a88c0,super love,2021-05-15 11:50:38,photo,science,positive,75
+ef619e47-1e88-4e0f-8d91-590cd9ecc137,hate,2020-06-25 18:28:26,photo,animals,negative,5
+f65dbde9-c8dc-4851-927e-964fa2e0908a,scared,2020-09-16 09:54:11,video,education,negative,15
+019b61f4-926c-438e-adaf-6119c5eab752,want,2020-06-25 17:15:07,photo,fitness,positive,70
+049c926f-9095-4bb2-a464-666a68257f61,like,2021-05-21 16:29:45,video,dogs,positive,50
+5bf45fd3-6b4b-400c-a126-31b8576e1d70,dislike,2021-02-07 14:32:04,video,tennis,negative,10
+8123c0ac-30b0-4a20-bebe-864b3a6b9e9a,dislike,2021-03-05 01:43:53,gif,soccer,negative,10
+724b9f31-8bdc-4152-b93f-4d3e457201ef,hate,2021-05-14 19:15:26,audio,animals,negative,5
+6aa06c00-d796-43c3-816d-70f21fe58f80,interested,2021-01-13 19:50:09,audio,science,positive,30
+3f6b1a9d-db78-4d9a-a495-9de7bd9bbe5b,adore,2020-09-01 10:34:25,gif,tennis,positive,72
+96ece45a-89e4-4cf8-b216-c860bf8e158e,dislike,2020-12-14 15:01:40,photo,food,negative,10
+5efb3710-c34d-4dc4-84dd-31cd8c5d9c30,super love,2020-12-08 20:44:37,audio,animals,positive,75
+6912f8e6-86b7-44f6-8aa8-c21c2ed0b53c,love,2021-02-11 14:48:01,gif,food,positive,65
+4dd4da35-453e-466d-95ca-b1a7710fac1f,heart,2020-11-25 09:19:24,gif,technology,positive,60
+f47074e8-5189-44ac-82f8-4309d63650b4,intrigued,2020-11-26 18:37:00,audio,culture,positive,45
+15e13281-8bd0-4f40-a0fa-44749cf32378,hate,2021-03-30 16:34:17,video,dogs,negative,5
+31cbcaf1-75f9-4541-abd6-15723478047b,interested,2020-07-12 17:19:17,photo,dogs,positive,30
+1bbfe52f-37e2-4874-8422-161a60b331e1,cherish,2021-04-07 01:40:15,gif,culture,positive,70
+94f8ffbb-d888-4713-8cdd-ea57466d88b2,love,2020-11-18 05:26:07,video,science,positive,65
+6e71ed3d-3fba-4bd1-8de7-2798dec6431e,adore,2020-08-16 00:50:29,audio,studying,positive,72
+c3d1c36d-2ad9-45ce-be49-51c103351e62,scared,2020-06-28 13:58:42,video,travel,negative,15
+b38723f3-878c-4308-b173-14f03639d9b8,love,2020-09-04 09:27:15,video,travel,positive,65
+942c5154-791e-47c0-bfad-264a3d6296eb,scared,2020-08-01 15:32:06,audio,animals,negative,15
+e1eb9e92-2e08-48b0-8be7-a2a98048aa08,intrigued,2021-04-29 02:10:40,video,public speaking,positive,45
+44eab5ca-b4a4-46c4-977d-197a78551861,interested,2020-09-10 05:00:15,audio,technology,positive,30
+a739e02a-5d83-4e0e-b306-740652cf700a,interested,2021-06-11 13:58:21,video,science,positive,30
+004e820e-49c3-4ba2-9d02-62db0065410c,heart,2021-03-09 08:50:44,audio,tennis,positive,60
+7cace87f-53ff-40c0-99f5-abbc5b8f86d6,worried,2020-10-22 01:33:36,gif,cooking,negative,12
+8b1bfacc-00fd-4f6e-b647-6ecfe2b7ce69,intrigued,2021-04-13 23:38:49,photo,science,positive,45
+6dbfb67c-e619-414b-b016-d24da6cbc294,indifferent,2020-11-14 00:44:47,audio,public speaking,neutral,20
+25c36533-1de5-4d82-879b-86180503cf8d,cherish,2020-11-19 02:07:34,photo,travel,positive,70
+c9b2829f-278c-4acd-a895-cf0bd337d36f,intrigued,2021-05-19 16:47:01,video,fitness,positive,45
+a861f7e7-b2f5-4d86-966c-7503c8faaeca,worried,2020-09-02 10:34:28,gif,animals,negative,12
+56b0b1ab-a07c-4379-b699-80ccc8689c85,dislike,2021-03-15 12:51:21,video,culture,negative,10
+6c8d057d-756a-41dd-afef-bf73adffbdf4,scared,2020-10-06 19:34:49,audio,food,negative,15
+f6055aa8-0c90-4e92-a8a6-7d046f35acd4,worried,2020-10-16 12:41:52,gif,animals,negative,12
+59f7eb93-7ffc-4627-98a6-9ecaa5e35206,interested,2021-06-11 20:57:10,gif,cooking,positive,30
+990f1598-4dbb-403c-a5b2-48de2c30b1ca,worried,2020-09-28 09:41:55,audio,food,negative,12
+fe06b730-b1f8-4f55-af1a-52487d8f1ec6,cherish,2021-04-30 07:57:46,video,animals,positive,70
+92c1fcb5-5b56-4780-85cb-0c4858b39b3e,hate,2020-07-08 01:25:34,video,travel,negative,5
+0701343b-6105-40e4-b275-7f3d292b9e20,heart,2021-02-17 21:12:45,photo,tennis,positive,60
+451b228b-9d66-45a4-b6fa-46c502562b5f,like,2021-05-25 09:00:02,video,healthy eating,positive,50
+c9082d3b-6f2b-4057-a0b8-3538a247982a,scared,2020-10-11 16:25:42,gif,healthy eating,negative,15
+1dbed432-50e6-4955-9ac8-798fb60b2f0e,disgust,2021-06-18 02:02:36,video,science,negative,0
+7c47e333-da29-4be9-8156-2e5f75a991e1,intrigued,2021-02-17 07:14:21,video,dogs,positive,45
+f1836624-ac23-4c4c-a868-ebf3256d6e80,want,2020-10-30 08:25:41,gif,cooking,positive,70
+ae87a6a3-1a9e-4323-981d-b63c1f8ca2a6,super love,2020-08-19 19:40:35,audio,food,positive,75
+2664a681-e732-422f-b529-02fabb6ec9ab,dislike,2021-03-17 13:48:13,audio,healthy eating,negative,10
+aad272f0-2b16-478b-b2c5-c502b060fc30,cherish,2021-03-14 13:57:55,photo,dogs,positive,70
+1dec5263-8a54-43fb-bfbe-a388d2919e74,scared,2021-04-23 08:52:29,gif,food,negative,15
+c75dfa33-cd71-486f-b4e1-f5e9133ae873,love,2021-01-26 09:30:55,photo,veganism,positive,65
+0f1cb5c0-ac2a-4c8a-9fb9-115d60493247,heart,2020-08-04 07:01:52,gif,veganism,positive,60
+40727608-362e-4e10-970f-2b5a5f8c37c1,peeking,2020-12-26 09:23:53,photo,science,neutral,35
+09f2e925-5086-42ad-8160-e763396a36ca,interested,2021-04-26 08:56:32,audio,dogs,positive,30
+6cbac852-fec6-49e2-95db-d62edeb477d0,hate,2020-12-27 00:34:17,video,healthy eating,negative,5
+445a06c1-3dea-4129-90eb-2384c0534eb6,scared,2021-03-21 16:56:48,gif,technology,negative,15
+abf9ec3b-1d0f-4238-a8f8-137072dab287,dislike,2020-11-28 20:55:08,gif,veganism,negative,10
+60872f35-3eb4-4742-b3b0-48f15f11be66,love,2020-08-13 22:13:18,video,travel,positive,65
+1b6f05f1-df9e-4ad4-989e-029baf20478f,dislike,2021-01-16 03:18:48,audio,fitness,negative,10
+1a5b511a-7199-4f05-988a-1f1d0380ca11,cherish,2020-12-13 15:00:10,gif,travel,positive,70
+5ac2552c-15a5-41ed-8d67-9c57bce74ebc,super love,2020-07-22 05:59:21,video,travel,positive,75
+b5966298-63d8-403e-96ab-9a610eb9752d,like,2020-11-19 22:29:20,gif,soccer,positive,50
+ec69ad7c-c57b-4d10-ad0f-930ff10bf687,want,2021-03-13 10:41:08,video,science,positive,70
+51a9bf9c-2c90-487b-ad37-9db7f18c36e7,disgust,2020-11-07 22:13:28,video,travel,negative,0
+9c542f56-b0ec-4df1-b95e-f56e1c467813,disgust,2020-10-18 10:07:21,audio,food,negative,0
+10df3489-3d58-4929-977c-d3e7e177f5fd,worried,2021-05-09 12:21:52,gif,studying,negative,12
+41c97dd6-3f0d-4a6c-9083-2163e8e08e19,disgust,2020-07-30 15:21:30,video,public speaking,negative,0
+e8d62710-7e3a-4bef-b6da-edaaed70c401,cherish,2021-04-02 07:00:55,photo,healthy eating,positive,70
+d3cc4cf1-81f9-49e7-bf5d-c0ae10a88139,adore,2021-04-13 16:05:09,video,culture,positive,72
+95fe7e7c-f327-4a0a-af06-5a88346f8546,scared,2021-01-27 14:24:32,video,science,negative,15
+4dca44b9-e65c-4d9d-93eb-6a24ec8950e9,like,2020-06-27 23:34:27,photo,animals,positive,50
+dd942c3f-2ed5-4849-9e2b-7484f5a4eaf4,peeking,2020-08-26 20:48:41,audio,culture,neutral,35
+8b08e78c-4798-463a-b868-a0dc9fde777f,peeking,2020-11-10 23:31:36,gif,public speaking,neutral,35
+b3bcbff0-d160-4fbc-b3c6-8113ceb38056,adore,2021-04-19 09:09:30,audio,science,positive,72
+4304a382-1527-4e7d-af7b-691d976f9ad4,scared,2020-06-23 22:04:12,video,tennis,negative,15
+2ceee25a-8461-4409-ab41-7a72d97d722d,disgust,2021-06-05 09:14:33,photo,animals,negative,0
+6407f238-511b-4ade-b77b-0f3bc8b2f300,heart,2021-03-27 05:03:15,audio,studying,positive,60
+437fab54-2c89-4b0b-8d89-dd2320d83e81,worried,2020-09-08 16:14:00,photo,tennis,negative,12
+cad4858d-77e5-47f8-a6b9-4ce2971d8656,indifferent,2021-03-07 02:12:44,photo,cooking,neutral,20
+a4f6b4c2-36bd-4232-bef8-66577a601163,scared,2020-11-25 22:20:11,photo,animals,negative,15
+f298ed7d-2aa2-4231-9523-c4013cef24c3,super love,2020-09-20 08:32:29,video,veganism,positive,75
+8838fd48-05c4-4b57-a192-35e9ff67f9b2,scared,2021-03-08 04:13:51,video,soccer,negative,15
+01396602-c759-4a17-90f0-8f9b3ca11b30,dislike,2021-03-10 19:12:02,gif,tennis,negative,10
+3ca5a22f-aebc-4421-a960-d787d732f1ec,interested,2020-08-27 05:52:49,audio,healthy eating,positive,30
+7bbce877-eb47-4ad3-9a57-7ec4a0190f1b,want,2020-09-03 09:30:05,photo,travel,positive,70
+e3107f22-f36a-4d88-9fca-1b842e141db8,hate,2021-02-28 09:11:28,gif,food,negative,5
+b3b384bf-3a17-4ccb-ba86-583dede8fe3c,love,2020-09-23 05:21:07,photo,education,positive,65
+b9ff65d6-b79a-4f9b-8745-10088ddf9934,want,2021-01-28 14:51:39,video,animals,positive,70
+3091e63e-1355-4eb6-9fa7-5c6e75f1d3b8,love,2020-06-30 17:11:11,gif,culture,positive,65
+0c2bd955-f00f-4c2f-8999-7cc0ada4b3e7,scared,2021-03-07 21:09:00,photo,animals,negative,15
+4ad4b955-c65a-467d-aa27-1ca804d05170,adore,2021-02-28 23:35:45,audio,culture,positive,72
+3c6354b3-7e8a-4d8c-bb80-33f17c17bd32,cherish,2020-06-20 19:30:18,audio,cooking,positive,70
+8caec934-9519-47de-8dd4-b6d65e279661,super love,2020-07-17 17:22:26,audio,public speaking,positive,75
+9b480f9e-cef3-46cc-8ea1-c116cded9661,dislike,2021-01-25 15:34:44,audio,public speaking,negative,10
+c24a56ff-256e-46eb-9936-a6284451fc61,scared,2020-08-05 16:01:58,video,studying,negative,15
+fa3a6a40-59db-4027-b8ee-89c79ecbee7f,super love,2021-01-09 02:08:42,photo,cooking,positive,75
+9a517a10-7dd2-4a30-b67a-925569d9ed84,dislike,2020-08-04 22:59:38,audio,science,negative,10
+4b6d1c04-e75d-4e96-b5f7-f49c4af8d89b,scared,2021-04-30 15:58:16,audio,veganism,negative,15
+f43114af-edb4-4629-bc15-7a483cf3eaf4,super love,2020-10-12 01:03:00,photo,technology,positive,75
+295ff9f6-64f3-4704-9272-4a932f11d709,like,2020-07-22 04:01:59,video,travel,positive,50
+7ef17afb-ded2-4675-9800-2cf7fe58e6b1,disgust,2020-10-03 01:27:59,audio,studying,negative,0
+bfc26d2d-b5e5-415a-b104-64befef2f52a,adore,2020-06-25 16:11:00,audio,food,positive,72
+2eb32cf2-da20-4b27-b4b6-c91716f528a5,dislike,2021-05-13 10:52:59,audio,veganism,negative,10
+7f7d20ca-fedf-48e6-8364-dbb8adeb4223,hate,2020-08-22 16:45:18,photo,animals,negative,5
+6519b8ec-1253-4f91-8abb-3c5a04eccd2b,indifferent,2020-09-18 14:50:22,photo,animals,neutral,20
+fa39acec-96b1-441d-8f85-16dfb44bdfba,hate,2020-08-16 16:56:38,photo,culture,negative,5
+4f215b36-f5c4-4294-81f2-80e4906b197d,cherish,2021-01-12 07:34:46,video,soccer,positive,70
+b6393b8b-320e-4558-8614-20a6727f2eea,love,2021-01-24 04:08:49,photo,food,positive,65
+04e1996d-ccb3-4b19-923a-8dc2a52e4bd4,interested,2021-01-19 20:52:16,audio,education,positive,30
+c892a472-bf81-4946-83c0-d3697ba65b95,like,2020-11-23 13:36:42,photo,soccer,positive,50
+aa1f824d-9df0-4b4c-a49e-0cfb7e244122,indifferent,2021-06-10 09:36:42,audio,public speaking,neutral,20
+4ae90f6e-da63-4ce2-a357-a4b36c739b80,worried,2021-05-16 08:59:26,gif,travel,negative,12
+ec9a2001-b58d-4a7a-86a5-f7ff637f0fe8,heart,2021-03-22 11:17:53,audio,travel,positive,60
+0a390a93-0e59-4a7a-a12c-d3f5ce4924fe,love,2020-07-27 23:23:44,video,public speaking,positive,65
+d61c4f76-99c6-4cd7-aaad-b3561880aa26,interested,2021-02-17 11:09:42,photo,technology,positive,30
+286e2f5f-082a-4ce7-9396-db565106d5bf,disgust,2021-02-02 10:28:02,photo,studying,negative,0
+abae4f43-2356-4c6b-b51d-d2acf4644956,interested,2021-04-06 23:26:35,gif,fitness,positive,30
+d4012724-c8bf-4db3-8670-dfa1f630a72a,love,2020-07-13 22:16:36,photo,studying,positive,65
+21bc3be6-6bd1-4926-8bee-c4585873851b,love,2020-12-04 04:09:52,video,soccer,positive,65
+8c3e8682-dec4-4d3b-a4e1-8c146f70d56f,adore,2021-05-18 06:06:35,video,food,positive,72
+bc8024c3-c51e-4875-b8df-419e9848f492,cherish,2020-12-10 21:16:12,gif,veganism,positive,70
+1e1a8878-0435-4171-97e6-fddb4abc3452,want,2021-03-16 15:07:27,gif,healthy eating,positive,70
+57d8470d-e644-4fe3-b56e-33f1c626e8ea,peeking,2020-08-12 00:44:51,photo,cooking,neutral,35
+8d7a1aff-abed-432f-a458-a4ab40324e72,adore,2020-10-01 19:54:03,gif,travel,positive,72
+f0c6ae88-c87e-4812-9713-ae45018a1f73,super love,2021-03-30 19:16:22,photo,science,positive,75
+8f82022e-2ba7-4269-ab8f-3b47f87004de,love,2020-09-17 18:45:08,audio,healthy eating,positive,65
+8891433d-d874-4bd5-a8ca-4114a4131b20,scared,2020-08-24 21:16:24,gif,tennis,negative,15
+52be2c2f-be1f-4cda-a2d6-5c147c018115,heart,2020-10-08 00:42:07,audio,food,positive,60
+c4cc899d-4c35-47fd-9710-8e2dea9782c9,adore,2020-12-12 12:45:58,photo,science,positive,72
+42a0f482-d3a8-4216-ba0b-1459abf854a6,love,2021-03-27 08:06:53,gif,culture,positive,65
+041bf6c9-8b33-4ca0-a787-762eb8837d0c,heart,2021-02-14 14:28:45,gif,food,positive,60
+954678ba-9ecc-4c0c-93a3-aba0e289cfbf,super love,2021-04-18 03:14:26,audio,dogs,positive,75
+5fefd228-c550-4023-b767-ec8aa62de850,adore,2020-08-19 12:28:58,video,cooking,positive,72
+66af1757-534a-4ef9-a5a5-9d721e7c6c00,peeking,2021-06-10 14:04:32,audio,healthy eating,neutral,35
+2771fa81-b26c-4e11-86ac-90e85faf4981,scared,2021-01-12 19:42:29,video,dogs,negative,15
+3b448410-dd36-4e79-bf4a-ba07814b308e,want,2021-03-30 07:08:49,video,travel,positive,70
+a03b3048-776e-4925-a52e-f6b1760a1be4,cherish,2020-08-03 11:02:24,photo,education,positive,70
+56d13215-1444-49b0-8e17-3a888bcd4e1e,scared,2021-03-29 12:14:54,gif,fitness,negative,15
+cda6a453-27bf-4237-b848-b27706732716,interested,2020-09-25 13:38:43,video,soccer,positive,30
+98a7f6b9-8dd3-40c9-8c98-db01b6c80015,disgust,2020-11-26 03:24:49,video,technology,negative,0
+a8160135-2d55-4240-8f28-fbee5ec84801,dislike,2021-05-01 09:33:00,video,studying,negative,10
+33696f53-ab7b-4f3e-b3a4-e0e82990339c,dislike,2020-07-21 00:37:40,photo,fitness,negative,10
+50c0f441-fde5-48bd-ba40-46f23b8cf862,peeking,2020-12-08 23:51:56,video,culture,neutral,35
+cafddd25-5653-4219-8dc7-a3eae45ea926,hate,2021-06-11 08:42:45,video,fitness,negative,5
+c24f4499-faae-4ff0-baf1-4be6a9061aa1,hate,2020-09-18 01:16:52,audio,animals,negative,5
+2669dbfc-65d4-4770-a916-e6507f881131,scared,2020-08-03 15:29:32,photo,science,negative,15
+b529487b-160b-48cd-aacc-2741b18462c6,intrigued,2021-02-02 15:44:05,gif,studying,positive,45
+e3bfdd7e-d7e2-4717-b780-2fa14f3cf858,adore,2021-06-03 18:36:49,photo,dogs,positive,72
+25c8f882-464d-4465-9ed2-e7f7706c1775,intrigued,2021-05-03 22:15:30,audio,healthy eating,positive,45
+df6e9952-4e2a-488a-bb83-3a7241f30e6f,cherish,2020-07-15 14:25:31,video,culture,positive,70
+4789b064-7b3c-4339-bf15-b9e38222930c,peeking,2020-11-11 12:47:04,photo,education,neutral,35
+77a3ac9f-7607-411f-a280-5431c71e3943,disgust,2021-03-29 07:14:51,audio,tennis,negative,0
+edea43f3-1541-4e42-8419-d1cdf749025c,super love,2020-12-10 16:25:22,photo,cooking,positive,75
+217f4060-b378-4d79-992f-20502d407f7c,disgust,2021-05-11 18:32:50,photo,cooking,negative,0
+4426d1ae-cb98-45cf-8d1d-c176ef755293,heart,2020-12-28 19:40:34,gif,science,positive,60
+74989207-b147-4a13-89b8-f0d868dfdf4a,hate,2020-07-31 19:20:54,audio,science,negative,5
+9fdcedb3-8e19-4755-93b2-133673d4620b,disgust,2020-12-09 22:26:37,audio,travel,negative,0
+9489565a-a899-4693-ad48-369f86b4b862,scared,2020-08-23 22:45:46,gif,studying,negative,15
+c056339f-7bc9-487a-85eb-aa7c6da9e5fb,super love,2020-08-31 16:22:23,video,veganism,positive,75
+5656bfe4-bcc1-4426-94b6-1f9dfe9a0db4,want,2020-12-01 05:00:16,video,travel,positive,70
+d347afb6-c092-4301-ba7d-4c59d10142cb,dislike,2021-02-02 02:08:15,photo,tennis,negative,10
+62e3c102-b551-4625-b949-d589babb16d8,peeking,2021-04-16 13:16:00,photo,soccer,neutral,35
+fbd3e09c-b5a3-4e6d-bb3c-c729d54c5f3b,hate,2020-12-24 10:34:03,gif,soccer,negative,5
+37c5a8aa-d239-4b94-ae68-2754825d36ff,super love,2020-12-20 01:05:10,photo,public speaking,positive,75
+8644e163-704a-4a99-a859-5e07fcfe3879,want,2020-12-26 16:36:55,photo,education,positive,70
+6547f69d-891d-4e1c-bd69-fc8735b8fca8,indifferent,2020-09-14 16:15:34,video,science,neutral,20
+235a0022-a683-4381-8e9e-aaf75fe90734,peeking,2020-06-23 08:07:24,photo,fitness,neutral,35
+21dfb75d-9d98-4627-b074-f4372025d23f,want,2020-08-15 18:34:04,gif,culture,positive,70
+e4127cae-c2e9-4321-919a-be6d11636808,interested,2020-07-21 19:28:18,audio,science,positive,30
+46ebc5f2-bfe8-4ada-aed3-6265842bd1f3,dislike,2021-02-24 00:38:28,video,food,negative,10
+b70813e7-8acd-462a-9b13-6d1258030fed,indifferent,2021-03-26 01:40:03,video,animals,neutral,20
+03ed0e2b-bd63-4079-8910-62c187526ca0,hate,2020-08-26 04:24:37,audio,healthy eating,negative,5
+5dc325aa-d5d1-4552-9997-cd25b7608be9,heart,2021-03-31 00:23:22,audio,healthy eating,positive,60
+503bd384-9733-4739-81f5-561b2328f6d8,worried,2020-09-26 09:59:14,gif,food,negative,12
+7053e0be-7227-4a05-893f-4bbee34f0f1f,disgust,2021-02-14 22:35:06,video,science,negative,0
+03344240-df23-421d-b0e3-4fac72fe6cd8,indifferent,2020-09-13 09:19:51,video,fitness,neutral,20
+16f8b629-5173-420f-9c8b-577313e9e128,indifferent,2020-12-12 23:01:28,video,healthy eating,neutral,20
+24f994fa-51d4-4e5e-bdac-79de67e7afbb,disgust,2021-02-21 10:07:08,video,food,negative,0
+b9b0dcaa-7b39-4b15-9f75-165ae7aac6b8,cherish,2020-12-07 20:15:00,gif,animals,positive,70
+e7baa303-bc5c-4990-b813-e16fc42342d3,cherish,2021-03-26 05:22:35,audio,science,positive,70
+73a7ec8f-08e7-41c6-a995-51537ff8772a,cherish,2021-01-18 02:57:31,video,technology,positive,70
+f3e9785c-d4e0-4258-a876-4d58ddb38790,heart,2020-08-07 23:16:39,gif,studying,positive,60
+bea01dba-56f4-4d26-82a1-9b13fb382d89,intrigued,2020-08-09 16:59:59,photo,dogs,positive,45
+02c9f76b-f9cc-48c5-aedf-73f37c637a71,like,2020-10-28 09:40:01,photo,veganism,positive,50
+8fe92544-5c15-4f77-bc40-c6e4b7d13674,super love,2020-11-12 07:31:46,gif,animals,positive,75
+c61b7ef6-d7ab-41fc-aebc-dc16f256957f,worried,2021-03-12 01:34:32,gif,cooking,negative,12
+8e0f1d3e-b588-44de-a423-8224eb26aa99,dislike,2021-06-14 09:08:42,audio,healthy eating,negative,10
+a1249a46-6362-4a73-a1e9-3b5d236cdd73,cherish,2020-12-28 19:51:18,gif,studying,positive,70
+bc06bab7-dbf7-4d7a-81b4-9f76f2f0b87c,super love,2021-06-17 23:59:50,gif,culture,positive,75
+58b0f92a-76ae-4521-a223-2b117f4f4e70,interested,2021-05-15 21:43:26,video,dogs,positive,30
+9c8f1389-d04e-4a55-a2f5-1612539b70a7,interested,2020-07-14 21:24:29,audio,technology,positive,30
+98d99f96-c8f9-4075-a3c8-f7aceb7e3bd2,want,2020-06-25 03:20:35,photo,technology,positive,70
+b23a874f-72fa-4abb-9ca5-941850c672bc,heart,2021-06-04 22:56:58,photo,healthy eating,positive,60
+26c02731-b5d8-4ad3-99a2-5e589e107937,heart,2020-12-31 06:24:33,video,studying,positive,60
+998194db-5706-4b01-9565-7c7e7d4ea5f5,want,2020-07-03 04:51:34,audio,cooking,positive,70
+54e29395-9eba-4945-abee-cad58cbab090,adore,2021-04-01 05:50:07,video,science,positive,72
+cab37e79-0e76-4bd2-b6bd-2fc8bf66ca99,interested,2021-02-05 18:53:13,photo,animals,positive,30
+88e43f42-027e-4256-bab4-2d1c2b6f8f67,hate,2020-12-20 07:01:30,photo,education,negative,5
+a7849ef3-5930-4ba9-9cbe-e215811e713e,heart,2020-09-26 22:01:17,photo,studying,positive,60
+c13e7406-c610-4721-b80d-2b5ad533e90a,scared,2021-06-11 03:59:44,gif,cooking,negative,15
+a973290c-989a-44d2-afb9-9b4bf16cc17f,like,2020-11-03 16:32:30,video,tennis,positive,50
+b2a20047-ac6f-4caa-90b1-fe735433e362,disgust,2021-06-09 09:31:40,photo,culture,negative,0
+a287c7ad-f5c8-4d87-940b-b7b24e2b42ac,indifferent,2020-09-15 03:28:00,video,fitness,neutral,20
+2e32de07-dc79-4cdc-bf1d-bac90ba3fd85,heart,2020-11-26 15:47:27,video,studying,positive,60
+89cb4504-fccd-40f4-945e-410f74ee4735,cherish,2021-04-04 21:44:33,photo,animals,positive,70
+67766c84-7d8d-46e2-b2e8-8b0f8dc27193,heart,2020-12-29 22:12:52,photo,veganism,positive,60
+331fad49-0e33-4676-8e2d-51ec52e86625,dislike,2020-06-25 17:35:22,audio,education,negative,10
+c54b49c4-b1f2-4641-8595-1cbd19937845,cherish,2020-12-23 11:54:31,photo,science,positive,70
+b4cef9ef-627b-41d7-a051-5961b0204ebb,indifferent,2021-01-10 12:58:17,video,public speaking,neutral,20
+7a79f4e4-3b7d-44dc-bdef-bc990740252c,intrigued,2020-07-23 20:12:00,gif,technology,positive,45
+435007a5-6261-4d8b-b0a4-55fdc189754b,heart,2021-06-09 06:52:54,audio,veganism,positive,60
+4e4c9690-c013-4ee7-9e66-943d8cbd27b7,interested,2021-02-07 21:03:10,gif,culture,positive,30
+75d6b589-7fae-4a6d-b0d0-752845150e56,dislike,2021-01-26 05:08:11,audio,technology,negative,10
